@@ -38,6 +38,7 @@ Right away, I'd like to ask whether or not you're willing to share your time zon
 
 ### Moderation Process
 ---
+([To Top](#Table-Of-Contents))
 *This step is to explain the unqiue moderation process that we use to moderate r/minimalistphotography. This will help give new mods a better understanding of what they are stepping into.*
 
 **Potential Message:**
@@ -46,6 +47,7 @@ I'd now like to let you know a bit more about our moderation process on this sub
 
 ### Reddit Group Chats
 ---
+([To Top](#Table-Of-Contents))
 *Add the new mod to the Reddit Group Chats, explaining their purpose. This will help in the orientation of the new mod, and help with the flow of information.*
 
 **Potential Message:**
@@ -54,6 +56,7 @@ Continuing on, I'd like to invite you to our 2 mod chats on Reddit. They are "Mo
 
 ### Mod Subreddit
 ---
+([To Top](#Table-Of-Contents))
 *Invite the new mod to MP mods, and explain the purpose of it*
 
 **Potential Message:**
@@ -62,6 +65,7 @@ As a team, we have a private subreddit as well as a private Discord server. For 
 
 ### Mod Intro Wiki
 ---
+([To Top](#Table-Of-Contents))
 *Unique has graciously written out a Wiki entry to help the introduction and training of a new mod. Send the user to it.*
 
 **Potential Message:**
@@ -70,6 +74,7 @@ One of our mods (Unique-Public), has graciously create a Wiki entry to help in t
 
 ### Upvote Posts
 ---
+([To Top](#Table-Of-Contents))
 *Ask the new mod to upvote all posts on r/minimalistphotography that they see. Emphasise that this is not mandatory, as we cannot tell someone how to vote.*
 
 **Potential Message:**
@@ -78,6 +83,7 @@ Small little thing, to help give the sub a lively feeling, we ask that you upvot
 
 ### Rules
 ---
+([To Top](#Table-Of-Contents))
 *Show the rules and ask if any explanation is needed.*
 
 **Potential Message:**
@@ -86,6 +92,7 @@ Our sub has a few rules. These rules are not very complicated, or very obscure, 
 
 ### Archive Modmail
 ---
+([To Top](#Table-Of-Contents))
 *Teach new mods to properly archive modmail.*
 
 **Potential Message:**
@@ -94,6 +101,7 @@ As previously mentiones, we invite users to our sub daily, hoping to help bring 
 
 ### Minimalist Photography Examples
 ---
+([To Top](#Table-Of-Contents))
 *Give examples of minimalist photography to new mods.*
 
 **Potential Message:**
@@ -103,6 +111,7 @@ https://www.reddit.com/r/minimalistphotography/wiki/index/definition/, https://w
 
 ### Comments
 ---
+([To Top](#Table-Of-Contents))
 *Give the new mod the scoop on comments.*
 
 **Potential Message:**
@@ -111,6 +120,7 @@ You may recall that I mentioned earlier that we try to have at least one mod com
 
 ### Top 25 Posts
 ---
+([To Top](#Table-Of-Contents))
 *Explain the procedure for top 25 posts.*
 
 **Potential Message:**
@@ -119,6 +129,7 @@ If you sort our sub by 'Top' -> 'All Time', you will see the most liked posts in
 
 ### Automod
 ---
+([To Top](#Table-Of-Contents))
 *Explain the point of automod*
 
 **Potential Message:**
