@@ -20,7 +20,7 @@
 
 ### Open DM 
 ---
-[To Top](#Table-Of-Contents)
+([To Top](#Table-Of-Contents))
 *Open a DM with the user. This is where the users training will take place, and where they can raise any questions, comments or concerns.* 
 
 **Potential Message:**
@@ -29,7 +29,7 @@ Hello {user}, I'm happy you decided to join our Mod Team! I'll be guiding you th
 
 ### Time Zone 
 ---
-[To Top](#Table-Of-Contents)
+([To Top](#Table-Of-Contents))
 *Ask for the users time zone, and give yours. This will help with scheduling and communication.*
 
 **Potential Message:**
