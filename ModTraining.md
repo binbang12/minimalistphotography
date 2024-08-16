@@ -97,6 +97,7 @@ As previously mentiones, we invite users to our sub daily, hoping to help bring 
 **Potential Message:**
 
 As a mod of a minimalist photography sub, it's good to know a little about what can be considered minimalist and what can't. We ask that you please skim through these, taking a look at what is considered minimalist. If you want to see posts that aren't minimalist (by our teams standards), feel free to take a look at the removed items in queue. Many minimalist photos can also be found... on our sub!
+https://www.reddit.com/r/minimalistphotography/wiki/index/definition/, https://www.adobe.com/creativecloud/photography/discover/minimalist-photography.html, https://minimalistphotographyawards.com/minimalist-photography-awards-winners-2023/. (More links can be found on our sidebar).
 
 ### Comments
 ---
