@@ -49,19 +49,37 @@ I'd now like to let you know a bit more about our moderation process on this sub
 
 **Potential Message:**
 
-Continuing on, I'd like to invite you to 
+Continuing on, I'd like to invite you to our 2 mod chats on Reddit. They are "Mods - Minimalist Photography", and "MinimalistPhotography friendship". The names are pretty self explanatory however the first is for sub related topics, and the second is for the mod team to communicate as friends. Feel free to pop into either and say hello.
 
 ### Mod Subreddit
-4. Add them to the **Mod Subreddit**
+---
+*Invite the new mod to MP mods, and explain the purpose of it*
+
+**Potential Message:**
+
+As a team, we have a private subreddit as well as a private Discord server. For now, I'd like to invite you to the subreddit. In it, you'll be able to see that this is where we carry out any votes as a team, as well as mark any vacation we are taking. (In the pinned post). This is to ensure that everyone knows how many mods are able to actively moderate at a given time.
 
 ### Mod Intro Wiki
-5. Provide them with the link to the **Mod Intro Wiki**
+---
+*Unique has graciously written out a Wiki entry to help the introduction and training of a new mod. Send the user to it.*
+
+**Potential Message:**
+
+One of our mods (Unique-Public), has graciously create a Wiki entry to help in the training. This will be the longest part of the training (~15min), however we ask you to read it through and follow any intructiions, as it will give you some of the basic building blocks needed to help moderate. You can find the entry here: https://www.reddit.com/r/minimalistphotography/about/wiki/mod_handbook/
 
 ### Upvote Posts
-6. Explain to them that **Upvoting Posts** helps create an engaging subreddit
+---
+*Ask the new mod to upvote all posts on r/minimalistphotography that they see. Emphasise that this is not mandatory, as we cannot tell someone how to vote.*
+
+**Potential Message:**
+
+Small little thing, to help give the sub a lively feeling, we ask that you upvote all posts that you see. This is not mandatory, as we can not tell you how to vote, however it would be much appreaciated.
 
 ### Rules
-7. Explain **Rules** and answer questions about it
+---
+*Show the rules and ask if any explanation is needed.*
+
+Our sub has a few rules. These rules are not very complicated, or very obscure, however we ask that you check them out, and, if you have any questions or concerns, please let us know. The rules can be found on the sidebar here: https://www.reddit.com/r/minimalistphotography/
 
 ### Archive Modmail
 8. Show them how to **Archive User Invites**
