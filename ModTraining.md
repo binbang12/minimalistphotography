@@ -13,7 +13,6 @@
 - [Archive Modmail](#Archive-Modmail)
 - [Minimalist Photography Examples](#Minimalist-Photography-Examples)
 - [Comments](#Comments)
-- [First Post](#First-Post)
 - [Top 25 Posts](#Top-25-Posts)
 - [Automod](#Automod)
 
@@ -79,37 +78,47 @@ Small little thing, to help give the sub a lively feeling, we ask that you upvot
 ---
 *Show the rules and ask if any explanation is needed.*
 
+**Potential Message:**
+
 Our sub has a few rules. These rules are not very complicated, or very obscure, however we ask that you check them out, and, if you have any questions or concerns, please let us know. The rules can be found on the sidebar here: https://www.reddit.com/r/minimalistphotography/
 
 ### Archive Modmail
-8. Show them how to **Archive User Invites**
+---
+*Teach new mods to properly archive modmail.*
+
+**Potential Message:**
+
+As previously mentiones, we invite users to our sub daily, hoping to help bring even more amazing minimalist photographers into our group. As such, our modmail can start to fill up. Due to this, we ask that you periodically check modmail for messages that have the subject "Invitation to join and post", or some variant thereof. When you see these messages, we ask that you archive the message if and only if: A) It was just sent to a user, and has not been replied to. Or, B) If a user replied to it, then if another mod has responded to said reply.. Otherwise, we ask that you don't touch stuff in modmail. Please also keep in mind that if you choose to take on additional jobs in our mod team, you may become more involved with modmail. This is just a general baseline. Do you have any questions, comments or concerns?
 
 ### Minimalist Photography Examples
-9. Show **Approved and Removed in Queue**. Explain they are **Not To Action Queue**
+---
+*Give examples of minimalist photography to new mods.*
+
+**Potential Message:**
+
+As a mod of a minimalist photography sub, it's good to know a little about what can be considered minimalist and what can't. We ask that you please skim through these, taking a look at what is considered minimalist. If you want to see posts that aren't minimalist (by our teams standards), feel free to take a look at the removed items in queue. Many minimalist photos can also be found... on our sub!
 
 ### Comments
-10. Show the examples of **Welcome Posts** and **Comments By Mods**
+---
+*Give the new mod the scoop on comments.*
 
-### First Post
-11. Explain the **First Post Flair**
+**Potential Message:**
+
+You may recall that I mentioned earlier that we try to have at least one mod comment on every post. We don't have strict standards for this, execept be nice, be personable, be unique (no copy pasting). If a post has the "First Post" flair, please also make sure to welcome them to the sub. In addition, no matter the flair, try to work their username into the comment so you can ping them. I would also like to mention that even if a post already has a comment on it, it is okay to add another! Feel free to take a look through recent posts to see examples, and, if you see one without a comment, try your hand at commenting on it. Questions, concerns?
 
 ### Top 25 Posts
-12. Show how to find **Top 25 Posts**
+---
+*Explain the procedure for top 25 posts.*
+
+**Potential Message:**
+
+If you sort our sub by 'Top' -> 'All Time', you will see the most liked posts in this sub. Scroll down 25 posts, and everything from there up is in the top 25. We reward users for achieving top 25 by giving them a flair saying that they are in the top 25. (Except for 1st and 2nd, as they have their own). If you see a post in the top 25 and that person does not have the respective flair, feel free to give it to them. If you notice someone dropped out of top 25, do nothign, as they get to keep their flair. You may also notice comments on these posts congratulating users on reaching certain milestones (25, 20, 15, 20, 5, 3, 2, 1). Feel free to comment your congratulations as well! 
 
 ### Automod
-14. Explain the contents of **Automod**
+---
+*Explain the point of automod*
 
-## List of Places to Add New Mods
-1. Send **Mod Invite**
+**Potential Message:**
 
-2. Add to **Reddit Group Chats**
+We use Automod to help in the running of the sub. It is what takes down all posts for voting by the mods. It's what assigns posts the level that you will see when scrolling through the sub. We ask that you look but don't touch.
 
-3. Add to **MPmods**
-
-4. Show the **Photography Chat Channel**
-
-5. Add to **Discord (Mod)**
-
-6. Add to **Discord (Community)**
-
-## Pre-Made Messages for Training
