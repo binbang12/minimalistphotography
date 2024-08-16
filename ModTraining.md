@@ -2,7 +2,8 @@
 
 ## Table Of Contents
 
-- [Time Zone](###Time Zone)
+- [Time Zone](#Time-Zone)
+- [Automod](#Automod)
 
 ## Checklist
 
@@ -33,6 +34,7 @@
 
 13. Explain how to **Give Top 25 Flairs**
 
+### Automod
 14. Explain the contents of **Automod**
 
 ## List of Places to Add New Mods
