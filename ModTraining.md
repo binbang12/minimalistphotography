@@ -18,7 +18,7 @@
 
 ## Lessons
 
-### Open DM [To Top](#Table-Of-Contents)
+### Open DM ([To Top](#Table-Of-Contents))
 ---
 *Open a DM with the user. This is where the users training will take place, and where they can raise any questions, comments or concerns.* 
 
