@@ -135,7 +135,7 @@ You may recall that I mentioned earlier that we try to have at least one mod com
 
 **Potential Message:**
 
-If you sort our sub by 'Top' -> 'All Time', you will see the most-liked posts in this sub. Scroll down 25 posts, and everything from there up is in the top 25. We reward users for achieving top 25 by giving them a flair saying that they are in the top 25. (Except for 1st and 2nd, as they have their own). If you see a post in the top 25 and that person does not have the respective flair, feel free to give it to them. If you notice someone dropped out of top 25, do nothing, as they get to keep their flair. You may also notice comments on these posts congratulating users on reaching certain milestones (25, 20, 15, 20, 5, 3, 2, 1). Feel free to comment your congratulations as well! 
+If you sort our sub by 'Top' -> 'All Time', you will see the most-liked posts in this sub. Scroll down 25 posts, and everything from there up is in the top 25. We reward users for achieving top 25 by giving them a flair saying that they are in the top 25. (Except for 1st and 2nd, as they have their own). If you see a post in the top 25 and that person does not have the respective flair, feel free to give it to them. If you notice someone dropped out of top 25, do nothing, as they get to keep their flair. You may also notice comments on these posts congratulating users on reaching certain milestones (25, 20, 15, 20, 5, 3, 2, 1). Please check this periodically and add a congratulations when you see a photo has achieved a milestone.
 
 ### Automod
 ---
