@@ -85,11 +85,11 @@ One of our mods (Unique-Public), has graciously create a Wiki entry to help in t
 ### Upvote Posts
 ---
 ([To Top](#Table-Of-Contents))
-*Ask the new mod to upvote all posts on r/minimalistphotography that they see. Emphasize that this is not mandatory, as we cannot tell someone how to vote.*
+*Ask the new mod to upvote all posts on r/minimalistphotography. Emphasize that this is not mandatory, as we cannot tell someone how to vote.*
 
 **Potential Message:**
 
-Small little thing, to help give the sub a lively feeling, we ask that you upvote all posts that you see. This is not mandatory, as we can not tell you how to vote, however it would be much appreciated.
+Small little thing, to help give the sub a lively feeling, we ask that you upvote posts that you see. This is not mandatory, as we can not tell you how to vote, however it would be appreciated.
 
 ### Rules
 ---
