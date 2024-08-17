@@ -35,7 +35,7 @@ Hello {user}, I'm happy you decided to join our Mod Team! I'll be guiding you th
 
 **Potential Message:**
 
-I'd like to quickly let you know the amount of time you can expect to put into moderating. We try to be flexible, and we are okay if mods need to take a break, however if you're not on break, we'd hope that you'd spend 5-10mins, 2-3 times a day. This is a baseline, and is aiming high in order to give you a good estimate. This could change depending on the day, and whether or not you take on additional responsabilities.
+I'd like to quickly let you know the amount of time you can expect to put into moderating. We try to be flexible, and we are okay if mods need to take a break, however if you're not on break, we'd hope that you'd spend 5-10mins, 2-3 times a day. This is a baseline, and is aiming high in order to give you a good estimate. This could change depending on the day, and whether or not you take on additional responsabilities (which are optional).
 
 ### Time Zone 
 ---
