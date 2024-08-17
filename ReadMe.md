@@ -126,7 +126,7 @@ https://www.reddit.com/r/minimalistphotography/wiki/index/definition/, https://w
 
 **Potential Message:**
 
-You may recall that I mentioned earlier that we try to have at least one mod comment on every post. We don't have strict standards for this, except be nice, be personable, be unique (no copy pasting). If a post has the "First Post" flair, please also make sure to welcome them to the sub. In addition, no matter the flair, try to work their username into the comment so you can ping them. I would also like to mention that even if a post already has a comment on it, it is okay to add another! Feel free to take a look through recent posts to see examples, and, if you see one without a comment, try your hand at commenting on it. Questions, concerns?
+You may recall that I mentioned earlier that we try to have at least one mod comment on every post. We don't have strict standards for this, except be nice, be personable, be unique (no copy/pasting). If a post has the "First Post" flair, please also make sure to welcome them to the sub. In addition, no matter the flair, try to work their username into the comment so you can ping them. I would also like to mention that even if a post already has a comment on it, it is okay to add another! Feel free to take a look through recent posts to see examples, and, if you see one without a comment, try your hand at commenting on it. Questions, concerns?
 
 ### Top 25 Posts
 ---
