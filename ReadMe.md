@@ -107,7 +107,7 @@ Our sub has a few rules. These rules are not very complicated, or very obscure, 
 
 **Potential Message:**
 
-As previously mentioned, we invite users to our sub daily, hoping to help bring even more amazing minimalist photographers into our group. As such, our modmail can start to fill up. Due to this, we ask that you periodically check modmail for messages that have the subject "Invitation to join and post", or some variant thereof. When you see these messages, we ask that you archive the message if and only if: A) It was just sent to a user, and the user has not replied. Or, B) If a user replied to it, then if another mod has responded to said reply.. Otherwise, we ask that you don't touch stuff in modmail. Please also keep in mind that if you choose to take on additional jobs in our mod team, you may become more involved with modmail. This is just a general baseline. Do you have any questions, comments or concerns?
+As previously mentioned, we invite users to our sub daily, hoping to help bring even more amazing minimalist photographers into our group. As such, our modmail can start to fill up. Due to this, we ask that you periodically check modmail for messages that have the subject "Invitation to join and post", or some variant thereof. When you see these messages, we ask that you archive the message if and only if: a) it was just sent to a user and the user has not replied, or b) a user replied but another mod has responded - otherwise, we ask that you don't action modmails for now. Please also keep in mind that if you choose to take on additional jobs in our mod team, you may become more involved with modmail. This is just a general baseline. Do you have any questions, comments or concerns?
 
 ### Minimalist Photography Examples
 ---
