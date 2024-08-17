@@ -26,7 +26,7 @@
 
 **Potential Message:**
 
-Hello {user}, I'm happy you decided to join our Mod Team! I'll be guiding you through the quick training process, that way you can hit the ground running. If you have any questions, comments, or concerns, please don't hesitate to reach out and I'd be happy to help however I can. Until I give the go ahead, please refrain from doing anything besides commenting, as we run our sub in a very unique way, which needs explanation. If it's alright with you, I'd like to get right in to this, that way you can get going as soon as possible.
+Hello {user}, I'm happy you decided to join our Mod Team! I'll be guiding you through the quick training process, that way you can hit the ground running. If you have any questions, comments, or concerns, please don't hesitate to reach out and I'd be happy to help however I can. Until I give the go ahead, please refrain from doing anything besides commenting, as we run our sub in a very unique way, which needs explanation. ( This means that we hope you will not do anything related to automod, queue, modmail, description, etc, until the training is complete ). If it's alright with you, I'd like to get right in to this, that way you can get going as soon as possible.
 
 ### Time Commitment
 ---
