@@ -3,6 +3,7 @@
 ## Table Of Contents
 
 - [Open DM](#Open-DM)
+- [Time Commitment](#Time-Commitment)
 - [Time Zone](#Time-Zone)
 - [Moderation Process](#Moderation-Process)
 - [Reddit Group Chats](#Reddit-Group-Chats)
@@ -26,6 +27,15 @@
 **Potential Message:**
 
 Hello {user}, I'm happy you decided to join our Mod Team! I'll be guiding you through the quick training process, that way you can hit the ground running. If you have any questions, comments, or concerns, please don't hesitate to reach out and I'd be happy to help however I can. Until I give the go ahead, please refrain from doing anything besides commenting, as we run our sub in a very unique way, which needs explanation. If it's alright with you, I'd like to get right in to this, that way you can get going as soon as possible.
+
+### Time Commitment
+---
+([To Top](#Table-Of-Contents))
+*Give user the expected time commitment to moderate r/minimalistphotography.*
+
+**Potential Message:**
+
+I'd like to quickly let you know the amount of time you can expect to put into moderating. We try to be flexible, and we are okay if mods need to take a break, however if you're not on break, we'd hope that you'd spend 5-10mins, 2-3 times a day. This is a baseline, and is aiming high in order to give you a good estimate. This could change depending on the day, and whether or not you take on additional responsabilities.
 
 ### Time Zone 
 ---
