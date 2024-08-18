@@ -22,7 +22,7 @@ To help give the subreddit a lively and engaging atmosphere, we ask that you upv
 
 ## Comments
 
-As part of our engagement strategy, we strive to have at least one mod comment on every post. Comments should be kind, personable, and unique—avoid copy-pasting. When commenting on posts with the “First Post” flair, make sure to welcome the user to the subreddit. Even if a post already has a comment, it’s okay to add another.
+As part of our engagement strategy, we strive to have at least one mod comment on every post. Comments should be kind, personable, and unique—avoid copy-pasting. When commenting on posts with the “First Post” flair, make sure to welcome the user to the subreddit. Even if a post already has a comment, it’s okay to add another. You can also look at posts in our sub for examples of effective comments.
 
 ## Top 25 Posts
 
@@ -51,6 +51,8 @@ Familiarize yourself with what qualifies as minimalist photography by reviewing 
 - [Adobe’s guide to minimalist photography](https://www.adobe.com/creativecloud/photography/discover/minimalist-photography.html)
 - [Minimalist Photography Awards winners](https://minimalistphotographyawards.com/minimalist-photography-awards-winners-2023/)
 
+You can also look at posts in our subreddit to see examples of content that fits our guidelines.
+
 ## Modmail
 
 Our modmail can get quite busy, especially with our daily invitations to new users. Check modmail for messages with subjects like "Invitation to join and post." Archive these messages if:
@@ -61,5 +63,4 @@ Do not interact with modmail messages that do not meet these criteria. If you ta
 
 ---
 
-This guide aims to provide a comprehensive overview of your role and responsibilities. If you have any questions or need further clarification, feel free to reach out to the team. Welcome aboard!
-
+This guide aims to provide a comprehensive overview of your role and responsibilities. Please remember to limit your actions to comments, flairs, and archiving the appropriate messages. If you have any questions or need further clarification, feel free to reach out to the team. Welcome aboard!
