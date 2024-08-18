@@ -63,4 +63,4 @@ Do not interact with modmail messages that do not meet these criteria. If you ta
 
 ---
 
-This guide aims to provide a comprehensive overview of your role and responsibilities. Please remember to limit your actions to comments, flairs, and archiving the appropriate messages. If you have any questions or need further clarification, feel free to reach out to the team. Welcome aboard!
+This guide aims to provide a comprehensive overview of your role and responsibilities. Please remember to limit your actions to comments, flairs, and archiving the appropriate messages. If you have any questions or need further clarification, feel free to reach out to the team. Once you have fully read and understood the above, message your trainer the word "snap"! Once sent, they will add you as a moderator in [r/minimalistphotography](https://www.reddit.com/r/minimalistphotography/), an approved user in [r/MPmods](https://www.reddit.com/r/MPmods/), and will invite you to the 2 reddit group chats. If you wish to provide additional help in discord with the queue, feel free to let your trainer know. Welcome aboard! 
