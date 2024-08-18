@@ -53,7 +53,7 @@ Right away, I'd like to ask whether or not you're willing to share your time zon
 
 **Potential Message:**
 
-I'd now like to let you know a bit more about our moderation process on this sub. It is unqiue compared to other subs, and is a lot more complex, hence the number of mods we have. As a team, we personally (As in us, and not an automation), welcome all new members to the subreddit, via commenting on their first posts. In addition, we try to have at least one comment on each post, as it drives up engagement and help create the feeling of a supportive active subreddit. In the beginning, you will share in this responsability only, however, there are other jobs that you can take on if you so wish. To help the growth of our subreddit, one of our mods sends out around 10 invites to users a day to join our sub. To avoid spam, we are very selective in who we choose. We vote on every potential invite as a mod team, and, if/when an invite is sent, we include the photo that we hope the user will post, as well as our reasoning behind why we feel they'd be a great addition to our sub. Finally, our queue. In the spirit of maintaining quality minimalist photos, the mod team of r/minimalistphotography votes on all photos that users attempt to post (Our automod immediately removes all posts, so that we may vote on it). Once a photo is deemed minimalist, or not, then, a mod will either approve or deny the post in queue, depending on the result of the vote. Do you have any questions or concerns?
+I'd now like to let you know a bit more about our moderation process on this sub. It is unqiue compared to other subs, and is a lot more complex, hence the number of mods we have. As a team, we personally (as in us, and not an automation), welcome all first time posters to the subreddit, via commenting on their first posts. In addition, we try to have at least one comment on each post, as it drives up engagement and helps a supportive and active subreddit. In the beginning, this will be your only assignement, however, there are other jobs that you can take on if you so wish. To help the growth of our subreddit, one of our mods sends out around 10 invites to users a day to join our sub. To avoid this being like spam, we are very selective in who we choose. We vote on every potential invite recipient as a mod team, and, if/when an invite is sent, we include the photo that we hope the user will post, as well as our reasoning behind why we feel they'd be a great addition to our sub. Finally, our queue: in the spirit of maintaining quality minimalist photos, the mod team of r/minimalistphotography votes on all photos that users attempt to post (our automod immediately removes all posts, so that we may vote on it). Once a photo is deemed minimalist, or not, then, a mod will either approve or deny the post in queue, depending on the result of the vote. Do you have any questions or concerns?
 
 ### Reddit Group Chats
 ---
@@ -71,7 +71,7 @@ Continuing on, I'd like to invite you to our 2 mod chats on Reddit. They are "Mo
 
 **Potential Message:**
 
-As a team, we have a private subreddit as well as a private Discord server. For now, I'd like to invite you to the subreddit. In it, you'll be able to see that this is where we carry out any votes as a team, as well as mark any vacation we are taking. (In the pinned post). This is to ensure that everyone knows how many mods are able to actively moderate at a given time.
+As a team, we have a private subreddit (r/MPmods) as well as a private Discord server. For now, I'd like to invite you to the subreddit. In it, you'll be able to see that this is where our mod team votes on all mod team decisions, as well as mark any vacation we are taking (in the pinned post). This is to ensure that everyone knows how many mods are able to actively moderate at a given time.
 
 ### Mod Intro Wiki
 ---
@@ -89,7 +89,7 @@ One of our mods (Unique-Public), has graciously create a Wiki entry to help in t
 
 **Potential Message:**
 
-Small little thing, to help give the sub a lively feeling, we ask that you upvote posts that you see. This is not mandatory, as we can not tell you how to vote, however it would be appreciated.
+Small thing:  to help give the sub a lifely feeling, we ask that you upvote posts on the sub. This is not mandatory, as we can not tell you how to vote, however it would be appreciated.
 
 ### Rules
 ---
@@ -107,7 +107,7 @@ Our sub has a few rules. These rules are not very complicated, or very obscure, 
 
 **Potential Message:**
 
-As previously mentioned, we invite users to our sub daily, hoping to help bring even more amazing minimalist photographers into our group. As such, our modmail can start to fill up. Due to this, we ask that you periodically check modmail for messages that have the subject "Invitation to join and post", or some variant thereof. When you see these messages, we ask that you archive the message if and only if: a) it was just sent to a user and the user has not replied, or b) a user replied but another mod has responded - otherwise, we ask that you don't action modmails for now. Please also keep in mind that if you choose to take on additional jobs in our mod team, you may become more involved with modmail. This is just a general baseline. Do you have any questions, comments or concerns?
+As previously mentioned, we invite users to our sub daily, hoping to help bring even more amazing minimalist photographers into our group. As such, our modmail can start to fill up. Due to this, we ask that you periodically check modmail for messages that have the subject "Invitation to join and post", or some variant thereof. When you see these messages, we ask that you archive the message if and only if: a) the user has not replied, or b) a user replied but another mod has responded - otherwise, we ask that you don't action modmails for now. Please also keep in mind that if you choose to take on additional jobs in our mod team, you may become more involved with modmail. This is just a general baseline. Do you have any questions, comments or concerns?
 
 ### Minimalist Photography Examples
 ---
@@ -116,7 +116,7 @@ As previously mentioned, we invite users to our sub daily, hoping to help bring 
 
 **Potential Message:**
 
-As a mod of a minimalist photography sub, it's good to know a little about what can be considered minimalist and what can't. We ask that you please skim through these, taking a look at what is considered minimalist. If you want to see posts that aren't minimalist (by our teams standards), feel free to take a look at the removed items in queue. Many minimalist photos can also be found... on our sub!
+As a mod of a minimalist photography sub, it's good to know a little about what can be considered minimalist and what can't. We ask that you please skim through these, taking a look at what is considered minimalist. If you want to see posts that aren't minimalist (by our team's standards), feel free to take a look at the removed items in queue. Many minimalist photos can also be found... on our sub!
 https://www.reddit.com/r/minimalistphotography/wiki/index/definition/, https://www.adobe.com/creativecloud/photography/discover/minimalist-photography.html, https://minimalistphotographyawards.com/minimalist-photography-awards-winners-2023/. (More links can be found on our sidebar).
 
 ### Comments
@@ -126,7 +126,7 @@ https://www.reddit.com/r/minimalistphotography/wiki/index/definition/, https://w
 
 **Potential Message:**
 
-You may recall that I mentioned earlier that we try to have at least one mod comment on every post. We don't have strict standards for this, except be nice, be personable, be unique (no copy/pasting). If a post has the "First Post" flair, please also make sure to welcome them to the sub. In addition, no matter the flair, try to work their username into the comment so you can ping them. I would also like to mention that even if a post already has a comment on it, it is okay to add another! Feel free to take a look through recent posts to see examples, and, if you see one without a comment, try your hand at commenting on it. Questions, concerns?
+You may recall that I mentioned earlier that we try to have at least one mod comment on every post. We don't have strict standards for this except be nice, be personable, and be unique (no copy/pasting). If a post has the "First Post" flair, please also make sure to welcome them to the sub. In addition, no matter the flair, try to work their username into the comment so you can ping them. I would also like to mention that even if a post already has a comment on it, it is okay to add another! Feel free to take a look through recent posts to see examples, and, if you see one without a comment, try your hand at commenting on it. Questions, concerns?
 
 ### Top 25 Posts
 ---
@@ -135,7 +135,7 @@ You may recall that I mentioned earlier that we try to have at least one mod com
 
 **Potential Message:**
 
-If you sort our sub by 'Top' -> 'All Time', you will see the most-liked posts in this sub. Scroll down 25 posts, and everything from there up is in the top 25. We reward users for achieving top 25 by giving them a flair saying that they are in the top 25. (Except for 1st and 2nd, as they have their own). If you see a post in the top 25 and that person does not have the respective flair, feel free to give it to them. If you notice someone dropped out of top 25, do nothing, as they get to keep their flair. You may also notice comments on these posts congratulating users on reaching certain milestones (25, 20, 15, 20, 5, 3, 2, 1). Please check this periodically and add a congratulations when you see a photo has achieved a milestone.
+If you sort our sub by 'Top' -> 'All Time', you will see the most-liked posts in this sub. Scroll down 25 posts, and everything from there up is in the top 25. We reward users for achieving top 25 by giving them a flair saying that they are in the top 25 (except for 1st and 2nd, as they have special rank). If you see a post in the top 25 and that person does not have the respective flair, feel free to give it to them. If you notice someone dropped out of top 25, do nothing, as they get to keep their flair. You may also notice comments on these posts congratulating users on reaching certain milestones (25, 20, 15, 10, 5). Please check this periodically and add a congratulations when you see a photo has achieved a milestone.
 
 ### Automod
 ---
