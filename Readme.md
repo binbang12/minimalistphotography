@@ -14,6 +14,7 @@
 - [Comments](#Comments)
 - [Top 25 Posts](#Top-25-Posts)
 - [Automod](#Automod)
+- [Plagiarism](#Plagiarism)
   
 ## Lessons
 
@@ -144,3 +145,13 @@ If you sort our sub by 'Top' -> 'All Time', you will see the most-liked posts in
 **Potential Message:**
 
 We use Automod to help in the running of the sub. It is what takes down all posts for voting by the mods. It's what assigns posts the level that you will see when scrolling through the sub. We ask that you look but don't touch.
+
+### Plagiarism
+---
+
+([To Top](#Table-Of-Contents))
+*Explain what to do in cases of suspected plagiarism.*
+
+**Potential Message:**
+
+If you see a post that you suspect is plagiarized. Please bring it to the attention of the rest of the mod team. In the beginning, we ask that you don't do anything besided alert us. Our normal process when we find plagiaried posts is to first delete the post, then ban the user, and finally message r/ModSupport to let the Reddit Admins know about it.
