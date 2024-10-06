@@ -15,6 +15,7 @@
 - [Top 25 Posts](#Top-25-Posts)
 - [Automod](#Automod)
 - [Plagiarism](#Plagiarism)
+- [Extras](#Extras)
   
 ## Lessons
 
@@ -155,3 +156,16 @@ We use Automod to help in the running of the sub. It is what takes down all post
 **Potential Message:**
 
 If you see a post that you suspect is plagiarized. Please bring it to the attention of the rest of the mod team. In the beginning, we ask that you don't do anything besided alert us. Our normal process when we find plagiaried posts is to first delete the post, then ban the user, and finally message r/ModSupport to let the Reddit Admins know about it.
+
+### Extras
+---
+
+([To Top](#Table-Of-Contentes))
+*Explain a couple of additional points that are necessary to ensure the new mod works well as part of the team.*
+
+**Potential Message:**
+
+A couple other things I'd like to mention:
+- If you ever need a break, or feel like you no longer wish to be on the mod team, that is okay. Please just make sure to give us ample warning ahead of your break/leaving so that we can make sure that all roles are filled and no one mod is given too much too handle.  
+- The rules of our subreddit weren't put there on a whim, and they were the result of much discussion and debate. Please do not change, remove, or add rules *unless* yuou've discussed it with the entire mod team before hand.
+- Commenting on posts helps a lot, however the expectation is that when you join the mod team, once the training is done, you'll join Discord and participate there in addition to commenting. If this is not acceptable to you, please makew sure to let me know.
