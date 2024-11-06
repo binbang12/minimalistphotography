@@ -15,7 +15,7 @@
 **Message Example:**
 > "Hello {username}, welcome aboard! I’ll be guiding you through the training process, and I'm here to help whenever you need it. We’ll start with some basic tasks and gradually move on to more complex responsibilities. Please let me know if you have any questions along the way."
 
-### 3. Send Mod Invite with 'Mod Flair' Perms
+### 3. Send Mod Invite with 'Flair' Perms
 
 **Action:** Send the user the mod invite with the appropriate permissions. After they join, remind them to assign themselves the 'mod' flair on Reddit.
 
