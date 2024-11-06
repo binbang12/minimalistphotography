@@ -55,7 +55,7 @@
 
 **Tip:** Observe how they balance their tasks (commenting and Top 25), and provide feedback or guidance if needed.
 
-### 8. Teach Queue Process (Leave Blank for Trainer)
+### 8. Teach Queue Process
 
 **Action:** Teach the new mod about the queue process, including how to vote on posts and approve/deny them based on the minimalist standards. Let them know that the Discord bot handles all actions Reddit-side
 
