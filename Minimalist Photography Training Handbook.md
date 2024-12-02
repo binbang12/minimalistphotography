@@ -16,9 +16,9 @@
    \- Maintain a respectful and kind tone in all interactions with both the mod team and community members.  
    \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.  
   
-2. Send the user a mod invite on Reddit. They should be given the "user" and "flair" perms to begin with. Once you've done this, let them know and ask them to give themselves the 'Mod' flair.
+2. **Send the user a mod invite on Reddit. They should be given the "user" and "flair" perms to begin with. Once you've done this, let them know and ask them to give themselves the 'Mod' flair.**
 
-3. Once the new mod has completed Step 1 and 2, go on to explain that the way we moderate r/minimalistphotography is unique, and provide an overview as to what we do differently.
+3. **Once the new mod has completed Step 1 and 2, go on to explain that the way we moderate r/minimalistphotography is unique, and provide an overview as to what we do differently.**
 
    I'd now like to share a bit about our moderation process, as we do things differently to a lot of other subreddits. Some of the things we do differently are:
    
@@ -26,7 +26,7 @@
    \- We aim to have at least one mod comment on every post. This is an important part of what we do, as we believe it helps foster a welcoming and engaged community.  
    \- Some of our mods actively search for high-quality minimalist photos across Reddit. If we find a post that aligns with our concept of minimalism, we'll send the user a thoughtful modmail invitation, explaining why we think their image would be a good fit for r/minimalistphotography.  
 
-4. Answer any questions the new mod may have, then continue on to explain the training process that they will go through.
+4. **Answer any questions the new mod may have, then continue on to explain the training process that they will go through.**
 
    The training process is designed to help you learn the tasks that need to be done to keep the subreddit running smoothly. To avoid overwhelming anyone with too much new information, you'll learn a new task every couple of days. The tasks that you'll be learning over the next week or so, in this order, consist of the following:
    
@@ -36,15 +36,15 @@
 
     Once you’ve completed these initial tasks, there are many other ways to get more involved in the moderation of our community if you’re interested!
 
-6. Answer any questions the new mod may have, then start by teaching them Step 1: Comments.
+6. **Answer any questions the new mod may have, then start by teaching them Step 1: Comments.**
 
    The first task that we'll be covering is comments on posts. As mentioned, we try to have a mod comment on every post. If you come across a post without one, feel free to step in! We hope that all mods will check for posts in need of comments once or twice a day. Additionally, you'll also notice the "needs-attention" channel in our Discord server. If a post has gone without a mod comment for over 5 hours, our friendly Discord bot will send us an alert there, so if you happen to see one and have the time, please comment on the post, then delete the alert.
 
    When making comments on posts, we ask that they be nice, be personable, and be unique (no copy-paste). Other then that, the message is entirely up to you. All comments should also mention the user who posted, so as to alert them. To do this, you include "u/", followed by their username in your message. Finally, if you notice the posts flair is "First Post", please welcome them to r/MinimalistPhotography!.
 
-7. Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly on posts. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.
+7. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly on posts. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
-8. Once a couple days have passed since Step 5, continue with the new mods training. They're now moving onto Top 25.
+8. **Once a couple days have passed since Step 5, continue with the new mods training. They're now moving onto Top 25.**
 
    We're now going to cover the second part of your training, Top 25. This has to do with the posts that make it into our Top 25 most upvotes posts (ever), and can be found through sorting our subreddit's feed by "Top" -> "All Time". We congratulate every user who reaches the Top 25, as well as any of the other milestones (20, 15, 10, 5, 3, 2, 1). A couple things need to be done when a milestone (25, 20, 15, 10, 5, 3, 2, 1) is acheived
 
@@ -54,9 +54,9 @@
 
    Our friendly Discord bot, which I mentioned during the last stage of your training, will also let us know in the "needs-attention" channel when a post has made a milestone, so this task doesn't require too much time. Please make sure you do this in addition to the comments we discussed a couple of days ago, not instead of.
 
-9. Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Stage 5. If you notice a lack of comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.
+9. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Stage 5. If you notice a lack of comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
-10. After a couple days have passed since Step 7, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.
+10. **After a couple days have passed since Step 7, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.**
 
       You've been doing an amazing job so far, and now you have a choice. You can either:
 
@@ -67,15 +67,13 @@
 
 ### Queue
 ---
-*This section covers training a new mod to aid in Queue.*
+*This section covers training a new mod to aid in Queue. For each new mod learning Queue, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
-**For each new mod learning Queue, the steps below should be completed, with adjustments made as needed on a case-by-case basis.**
-
-1. Once the new mod has decided to continue with the training and learn queue, have them learn a little bit more about minimalistphotography.
+1. **Once the new mod has decided to continue with the training and learn queue, have them learn a little bit more about minimalistphotography.**
 
    Before you start voting in queue, I ask that you please take a look at our subreddits description, the links in our subreddits side bar, and the conversations in the defining-minimalism channel in our Discord server to give you a better sense of what minimalist photography is. You can also take a look at the posts in our sub to see what our mods consider minimalist. Let me know when you've done this, and we'll continue!
 
-2. Once the new mod has gotten back to you, saying they've taken a look at the places mentioned in Step 1, continue by explaining how our Queue works. (Automation, Reaction Meanings, Invite Posts)
+2. **Once the new mod has gotten back to you, saying they've taken a look at the places mentioned in Step 1, continue by explaining how our Queue works. (Automation, Reaction Meanings, Invite Posts)**
 
    One of the biggest parts of moderating our sub is curating the posts. We can get a lot of posts each day, so we've tried to streamline the voting process as much as possible. It's constantly changing as we think of better ways to do things, however as of right now, this is how it works:
 
@@ -100,6 +98,6 @@
   
    Does this all make sense to you? Do you have any questions?
 
-3. Once the new mods has said they understand Step 2, proceed to give them access to the voting channel. This means give them the "Queue" role in Discord, as well as the "Mail" and "Posts and Comments" perms on Reddit.
+3. **Once the new mods has said they understand Step 2, proceed to give them access to the voting channel. This means give them the "Queue" role in Discord, as well as the "Mail" and "Posts and Comments" perms on Reddit.**
 
    I have now given you access to the voting channel in the Discord server. There are some additional instructions at the top of the channel if you'd like to take a look at that. I've also given you access to Queue and Modmail on Reddit. Please do not action any posts on Reddit however. All voting and actions should take place through the Discord bot. Finally, please remember to continue doing Comments and Top 25 on Reddit. That takes first priority. You've been an amazing help. Thank you!
