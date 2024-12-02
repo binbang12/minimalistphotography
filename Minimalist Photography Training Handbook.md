@@ -10,7 +10,7 @@
 
 1. Explain the requirements and expectations of all mods on the team, those being:
 
-     Before we contin with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods respect the following:
+     Before we continue with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods respect the following:
     - Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts.
     - Notify the team in the Discord server if you're unnable to partipate for any reason
     - Maintain a respectful and kind tone in all interactions with both the mod team and community members.
