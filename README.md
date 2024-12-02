@@ -148,3 +148,8 @@ full perms on Reddit. Now that you have full perms, please keep in mind that cha
 
 ### Promotion
 ---
+*This section covers training a mod to track mentions of our subreddit elsewhere on Reddit. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
+
+1. **If the mod does not already have the "Growth" role on Discord, they should be taught [Photo Pool Voting](#Photo-Pool-Voting) first. Otherwisem explain to them the quick and easy process involved.
+
+   We like seeing when people across Reddit mention our subreddit. When our sub's mentioned somewhere, we place the comment/post in the "promotion" channel on our Discord server. This is what you'll be helping do once we go over how it's done. To get notifications when someone uses "r/minimalistphotography" in a post or comment, we use \[RedditComber](https://redditcomber.com/). To set it up, simply sign in with your Reddit account and then enter "r/minimalistphotography" as a keyword it should alert you to. From then on, it will send you alerts to your Reddit inbox anytime someone uses it on Reddit. When you get one of these notifications, please copy and paste the link into the promotion channel on Discord (if the comment/post did not take place in our sub.)
