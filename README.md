@@ -2,7 +2,7 @@
 ## Table Of Contents
 - [Onboarding](#Onboarding)
 - [Queue](#Queue)
-- [Photo Pool](#Photo-Pool)
+- [Photo Pool](#Photo-Pool-Voting)
 
 ### Onboarding
 ---
@@ -99,11 +99,48 @@
   
    Does this all make sense to you? Do you have any questions?
 
-3. **Once the new mods has said they understand Step 2, proceed to give them access to the voting channel. This means give them the "Queue" role in Discord, as well as the "Mail" and "Posts and Comments" perms on Reddit.**
+3. **Once the new mods has said they understand Step 2, proceed to give them access to the voting channel. This means give them the "Queue" role in Discord, as well as full perms on Reddit.**
+full perms on Reddit. Now that you have full perms, please keep in mind that changes to our subs rules/description/design or any other changes are not made solely by one person, and are discussed by the entire team before hand. Please also do not action any posts on Reddit, as all voting and actions should take place through the Discord bot. Finally, please remember to continue doing Comments and Top 25 on Reddit. That takes first priority. You've been an amazing help. Thank you!
 
-   I have now given you access to the voting channel in the Discord server. There are some additional instructions at the top of the channel if you'd like to take a look at that. I've also given you access to Queue and Modmail on Reddit. Please do not action any posts on Reddit however. All voting and actions should take place through the Discord bot. Finally, please remember to continue doing Comments and Top 25 on Reddit. That takes first priority. You've been an amazing help. Thank you!
-
-### Photo Pool
+### Photo Pool Voting
 ---
-*This section covers training a mod to aid in the photo pool. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
+*This section covers training a mod to vote in the photo pool. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
+1. **Once a mod has agreed to start voting in our photo pool, start by letting them know how it works, and the expectations for them.**
+
+   The photo pool is where we vote on posts that we may want to ask a user to post in our sub. For the photo pool, we have higher standards then with queue voting, however we believe it helps keeps our sub filled with many high quality minimalist photos. To stock the photo poolm some of our mods search Reddit for images that could fit in our sub, and then will place them in the photo pool channel in Discord to be voted on. Once votes have been made, we have designated mods who will then send the invite to the user (assuming the image was approved).
+
+2. **Once the mod had read the above, and you've answered any questions they may have, continue on to explain the voting process.**
+
+   The voting process for photo pool is in many ways like voting in Queue. The key difference is that you should be holding the images to a higher standard. A good way to think about it is: "Would this post make it into our Top 25?". Like with Queue voting, you use reactions (👍,❌,🤔,👎,🔥) to vote, with them all having the same meaning. A couple of other emojis we may use however are (1️⃣, 2️⃣, 3️⃣, etc), which can be use to specify which image you're voting yes to if the provided post links to a Gallery. At this point, you don't have to worry about the sending of invites, however if you'd like to help with that, feel free to let me know and we can cover it after.
+
+3. **Give them access to the photo-pool by giving them the "Growth" role on Discord. Also go on to explain that they're allowed placing photos in the photo pool if they so wish.**
+
+   I've now given you access to the photo-pool channel on Discord, so feel free to take a look their. At the top of the channel, you'll find some guidelines that you can take a read-through to make sure you fully udnerstand everything before voting. Finally, if you see a post elsewhere on Reddit that you feel would belong in our sub, it's A-Okay to place it in the photo pool to be voted on. Please just first ensure that they have not already posted any photos to our sub, and have not been sent any invites already. (The only exception being if they'd been sent one invite over 3 months ago).
+
+### Photo Pool Invites
+---
+*This section covers training a mod to send invites based on votes in photo pool. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
+
+1. **Once a mod has decided to help in the sending of invites, start by letting them know how it works.**
+
+   Invites are sent based on the results of votes in the photo-pool. You'll now be helping send these out. We have a modmail template that should be used when sending out the invites, and we'll go over the complete process now. before we start, do you have any questions?
+
+2. **Once the mod is ready to proceed, explain to them what the requirements are for an invite to be sent.**
+
+   Due to photo-pool images being held to a higher standard, the criteria for what posts we approve are different then Queue. For images in the pool, they must meet the following:
+
+   \- Have unanimous upvotes (👍)  
+   \- Have at least 3 upvotes (👍)
+
+   If the image does not meet these conditions, then we won't send an invite for it. If the image has met these conditions, there are a few more things to check before sending an invite.
+
+   \- Search modmail for any conversations with that user. (Do not include "u/" in the search).  
+   \- Either no invitations have to have been sent previously, or there must have only been 1, having occured at least 3 months ago.  
+   \- The user should have no prior activity on our sub. You can check by searching "author:username" in our subs search bar. (Username beings the user's username without the "u/").
+
+   If the image and user meet all of the conditions, then you can now send an invite. I'll go over how to do that, however first, do you have any questions?
+
+3. **If the mod has no questions, or they've all been answered, then proceed to tell them how to send an invite.**
+
+   To send an invite, first head over to Modmail. 
