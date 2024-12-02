@@ -2,6 +2,7 @@
 ## Table Of Contents
 - [Onboarding](#Onboarding)
 - [Queue](#Queue)
+- [Photo Pool](#Photo-Pool)
 
 ### Onboarding
 ---
@@ -101,3 +102,8 @@
 3. **Once the new mods has said they understand Step 2, proceed to give them access to the voting channel. This means give them the "Queue" role in Discord, as well as the "Mail" and "Posts and Comments" perms on Reddit.**
 
    I have now given you access to the voting channel in the Discord server. There are some additional instructions at the top of the channel if you'd like to take a look at that. I've also given you access to Queue and Modmail on Reddit. Please do not action any posts on Reddit however. All voting and actions should take place through the Discord bot. Finally, please remember to continue doing Comments and Top 25 on Reddit. That takes first priority. You've been an amazing help. Thank you!
+
+### Photo Pool
+---
+*This section covers training a mod to aid in the photo pool. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
+
