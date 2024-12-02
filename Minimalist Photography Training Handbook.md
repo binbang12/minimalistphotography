@@ -57,8 +57,8 @@
 9. After a couple days have passed since Step 7, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceef to step 10, otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.
 
     You've been doing an amazing job so far, and now you have a choice. You can either:
-        A) Stop the training now, and continue with Comments and Top 25, with the option to continue at a later date.
-        B) Continue on and learn queue, which is where we vote and decide on whether or not a post is minimalist.
+        - Stop the training now, and continue with Comments and Top 25, with the option to continue at a later date.
+        - Continue on and learn queue, which is where we vote and decide on whether or not a post is minimalist.
 
    Either option is fine, so it's up to you.
 
