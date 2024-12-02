@@ -14,9 +14,9 @@
      Before we continue with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods respect the following:
 
    \- Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts.  
-   \- Notify the team in the Discord server if you're unnable to partipate for more than 48hrs for any reason
-     \- Maintain a respectful and kind tone in all interactions with both the mod team and community members.
-    \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.
+   \- Notify the team in the Discord server if you're unnable to partipate for more than 48hrs for any reason.  
+   \- Maintain a respectful and kind tone in all interactions with both the mod team and community members.  
+   \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.  
   
 3. Send the user a mod invite on Reddit. They should be given the "user" and "flair" perms to begin with. Once you've done this, let them know and ask them to give themselves the 'Mod' flair.
 
