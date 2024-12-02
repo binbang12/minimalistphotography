@@ -85,12 +85,14 @@
    - If 3 👍 are not made, then Jwoods (One of the mods), will handle the actioning of the post. Only they are to approve/remove posts.
    - If the bot says that the post may be an invite, by following the modmail link it provides, you can check.
    - If the image linked in the invite is the same as the image posted, you can tell the bot to approve the post immediately by reacting to the post with the :autoapprove: emoji.
-   - You should only vote with one of these (👍, 🤔, ❌) however feel free to use these in addition to your main vote (🤮, 🔥, 😵‍💫).
+   - You should only vote with one of these (👍, 🤔, ❌, 👎) however feel free to use these in addition to your main vote (🤮, 🔥, 😵‍💫).
+   - All discussions about a post being voted on should take place in a seperate thread.
   
    The emojis we currently use to vote on posts are the following:
    - 👍: I think it's minimalist. It should be approved.
    - 🤔: I'm torn. It could be minimalist but it could also not be. I don't know which to choose.
    - ❌: Not minimalist. I think it should be removed.
+   - 👎: Low quality. Ugly. Breaks Rules. Remove for other reason.
    - 🤮: I feel very strongly about this one. It should NOT be approved. Please vote no.
    - 🔥: I feel very strongly about this one. It should be approved. Please vote yes.
    - 😵‍💫: I think this needs to be talked about. Please don't action this until we've discussed. (This will also stop the bot from automatically approving the post when 3 👍 votes have been made.)
