@@ -1,6 +1,7 @@
 # Minimalist Photography Training Handbook
 ## Table Of Contents
 - [Onboarding](#Onboarding)
+- [Queue](#Queue)
 
 ### Onboarding
 ---
@@ -54,7 +55,7 @@
 
 8. Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Stage 5. If you notice a lack of comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.
 
-9. After a couple days have passed since Step 7, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to step 10, otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.
+9. After a couple days have passed since Step 7, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.
 
     You've been doing an amazing job so far, and now you have a choice. You can either:
 
@@ -63,4 +64,5 @@
 
    Either option is fine, so it's up to you.
 
-11. If the new mod decides to continue with the training and learn queue:
+### Queue
+---
