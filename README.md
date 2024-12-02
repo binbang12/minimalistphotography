@@ -143,4 +143,4 @@ full perms on Reddit. Now that you have full perms, please keep in mind that cha
 
 3. **If the mod has no questions, or they've all been answered, then proceed to tell them how to send an invite.**
 
-   To send an invite, first head over to Modmail. 
+   To send an invite, first head over to Modmail and select the blue "+" icon. This will open up the draft for a new message. At the top, if it's not already, select r/minimalistphotography as the sender. Next, in the radio selection, choose the "To User" option. Place the user's username in the text box that should pop up. Now, choose the "Use a saved response" at the bottom, and pick the one names 'Invitation to Post (and join)'. Change PHOTO NAME and PHOTO LINK to be the photos name (or, for lack of a name, a couple word description.) and the link to the photo we'd like the user to post. Keep in mind that the brackets and parentheses are part of the message, and should not be changed. Finally, before hitting send, add "Invitation to Post (and join)" as the subject of the message. Finally, send the message and remove the image from the photo-pool channel in Discord.
