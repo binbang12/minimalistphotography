@@ -9,9 +9,9 @@
 
 **For each potential new mod, the steps below should be completed, with adjustments made as needed on a case-by-case basis.**
 
-1. Explain the requirements and expectations of all mods on the team, those being:
+**1. Explain the requirements and expectations of all mods on the team, those being:**
 
-     Before we continue with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods respect the following:
+Before we continue with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods respect the following:
 
    \- Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts.  
    \- Notify the team in the Discord server if you're unnable to partipate for more than 48hrs for any reason.  
