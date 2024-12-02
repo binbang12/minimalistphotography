@@ -66,3 +66,37 @@
 
 ### Queue
 ---
+*This section covers training a new mod to aid in Queue.*
+
+**For each new mod learning Queue, the steps below should be completed, with adjustments made as needed on a case-by-case basis.**
+
+1. Once the new mod has decided to continue with the training and learn queue, have them learn a little bit more about minimalistphotography.
+
+   Before you start voting in queue, I ask that you please take a look at our subreddits description, the links in our subreddits side bar, and the conversations in the defining-minimalism channel in our Discord server to give you a better sense of what minimalist photography is. You can also take a look at the posts in our sub to see what our mods consider minimalist. Let me know when you've done this, and we'll continue!
+
+2. Once the new mod has gotten back to you, saying they've taken a look at the places mentioned in Step 1, continue by explaining how our Queue works. (Automation, Reaction Meanings, Invite Posts)
+
+   One of the biggest parts of moderating our sub is curating the posts. We can get a lot of posts each day, so we've tried to streamline the voting process as much as possible. It's constantly changing as we think of better ways to do things, however as of right now, this is how it works:
+
+   - Our Automod will automatically remove all posts when they're made to our sub. (This includes mod posts).
+   - Our friendly Discord bot will place all items in the Reddit Queue in our "voting-and-discussion" channel, where the team can then vote on it.
+   - Votes are made by reacting to the message.
+   - Once 3 👍 reactions are made on a post, within one minute, the Discord bot will delete the message on Discord, as well as approve the post on Reddit
+   - If 3 👍 are not made, then Jwoods (One of the mods), will handle the actioning of the post. Only they are to approve/remove posts.
+   - If the bot says that the post may be an invite, by following the modmail link it provides, you can check.
+   - If the image linked in the invite is the same as the image posted, you can tell the bot to approve the post immediately by reacting to the post with the :autoapprove: emoji.
+   - You should only vote with one of these (👍, 🤔, ❌) however feel free to use these in addition to your main vote (🤮, 🔥, 😵‍💫).
+  
+   The emojis we currently use to vote on posts are the following:
+   - 👍: I think it's minimalist. It should be approved.
+   - 🤔: I'm torn. It could be minimalist but it could also not be. I don't know which to choose.
+   - ❌: Not minimalist. I think it should be removed.
+   - 🤮: I feel very strongly about this one. It should NOT be approved. Please vote no.
+   - 🔥: I feel very strongly about this one. It should be approved. Please vote yes.
+   - 😵‍💫: I think this needs to be talked about. Please don't action this until we've discussed. (This will also stop the bot from automatically approving the post when 3 👍 votes have been made.)
+  
+   Does this all make sense to you? Do you have any questions?
+
+3. Once the new mods has said they understand Step 2, proceed to give them access to the voting channel. This means give them the "Queue" role in Discord, as well as the "Mail" and "Posts and Comments" perms on Reddit.
+
+   I have now given you access to the voting channel in the Discord server. There are some additional instructions at the top of the channel if you'd like to take a look at that. I've also given you access to Queue and Modmail on Reddit. Please do not action any posts on Reddit however. All voting and actions should take place through the Discord bot. Finally, please remember to continue doing Comments and Top 25 on Reddit. That takes first priority. You've been an amazing help. Thank you!
