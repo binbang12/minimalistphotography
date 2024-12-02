@@ -21,9 +21,10 @@
 3. Once the new mod has completed Step 1 and 2, go on to explain that the way we moderate r/minimalistphotography is unique, and provide an overview as to what we do differently.
 
    I'd now like to share a bit about our moderation process, as we do things differently to a lot of other subreddits. Some of the things we do differently are:
-    - Every post submitted to our subreddit is reviewed and voted on by the mod team to determine if it aligns with our concept of minimalism. (Which is constantly evolving as we learn and work with each other)
-    - We aim to have at least one mod comment on every post. This is an important part of what we do, as we believe it helps foster a welcoming and engaged community.
-    - Some of our mods actively search for high-quality minimalist photos across Reddit. If we find a post that aligns with our concept of minimalism, we'll send the user a thoughtful modmail invitation, explaining why we think their image would be a good fit for r/minimalistphotography.
+   
+   \- Every post submitted to our subreddit is reviewed and voted on by the mod team to determine if it aligns with our concept of minimalism. (Which is constantly evolving as we learn and work with each other)  
+   \- We aim to have at least one mod comment on every post. This is an important part of what we do, as we believe it helps foster a welcoming and engaged community.  
+   \- Some of our mods actively search for high-quality minimalist photos across Reddit. If we find a post that aligns with our concept of minimalism, we'll send the user a thoughtful modmail invitation, explaining why we think their image would be a good fit for r/minimalistphotography.  
 
 4. Answer any questions the new mod may have, then continue on to explain the training process that they will go through.
 
