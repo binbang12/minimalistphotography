@@ -20,7 +20,7 @@
 
    Finally, while we cannot require mods to upvote nor tell them what to upvote, upvoting of posts and comments does make our sub seem more lively. Do with this as you will!
   
-3. **Send the user a mod invite on Reddit. They should be given the "user" and "flair" perms to begin with. Once you've done this, let them know and ask them to give themselves the 'Mod' flair.**
+3. **Send the user a mod invite on Reddit. They should be given the "user" and "flair" perms to begin with. Once you've done this, let them know and ask them to give themselves the 'Mod' flair. Also ask them to ensure their nickname in our server matches their username on Reddit. This helps make sure everyone knows who's who, on both Reddit and Discord.**
 
 4. **Once the new mod has completed Step 1 and 2, go on to explain that the way we moderate r/minimalistphotography is unique, and provide an overview as to what we do differently.**
 
