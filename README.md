@@ -16,11 +16,13 @@
    \- Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts.  
    \- Notify the team in the Discord server if you're unnable to partipate for more than 48hrs for any reason.  
    \- Maintain a respectful and kind tone in all interactions with both the mod team and community members.  
-   \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.  
-  
-2. **Send the user a mod invite on Reddit. They should be given the "user" and "flair" perms to begin with. Once you've done this, let them know and ask them to give themselves the 'Mod' flair.**
+   \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.
 
-3. **Once the new mod has completed Step 1 and 2, go on to explain that the way we moderate r/minimalistphotography is unique, and provide an overview as to what we do differently.**
+   Finally, while we cannot require mods to upvote nor tell them what to upvote, upvoting of posts and comments does make our sub seem more lively. Do with this as you will!
+  
+3. **Send the user a mod invite on Reddit. They should be given the "user" and "flair" perms to begin with. Once you've done this, let them know and ask them to give themselves the 'Mod' flair.**
+
+4. **Once the new mod has completed Step 1 and 2, go on to explain that the way we moderate r/minimalistphotography is unique, and provide an overview as to what we do differently.**
 
    I'd now like to share a bit about our moderation process, as we do things differently to a lot of other subreddits. Some of the things we do differently are:
    
@@ -28,7 +30,7 @@
    \- We aim to have at least one mod comment on every post. This is an important part of what we do, as we believe it helps foster a welcoming and engaged community.  
    \- Some of our mods actively search for high-quality minimalist photos across Reddit. If we find a post that aligns with our concept of minimalism, we'll send the user a thoughtful modmail invitation, explaining why we think their image would be a good fit for r/minimalistphotography.  
 
-4. **Answer any questions the new mod may have, then continue on to explain the training process that they will go through.**
+5. **Answer any questions the new mod may have, then continue on to explain the training process that they will go through.**
 
    The training process is designed to help you learn the tasks that need to be done to keep the subreddit running smoothly. To avoid overwhelming anyone with too much new information, you'll learn a new task every couple of days. The tasks that you'll be learning over the next week or so, in this order, consist of the following:
    
