@@ -2,8 +2,11 @@
 ## Table Of Contents
 - [Onboarding](#Onboarding)
 - [Queue](#Queue)
-- [Photo Pool](#Photo-Pool-Voting)
+- [Photo Pool Voting](#Photo-Pool-Voting)
+- [Photo Pool Invited](#Photo-Pool-Invites)
 - [Promotion](#Promotion)
+- [Automod](#Automod)
+- [Mod Log](#Mod-Log)
 
 ### Onboarding
 ---
@@ -157,3 +160,16 @@ Now that you have full perms, please keep in mind that changes to our subs rules
    We like seeing when people across Reddit mention our subreddit. To get notifications when someone uses "r/minimalistphotography" in a post or comment, we use \[RedditComber](https://redditcomber.com/). To set it up, simply sign in with your Reddit account and then enter "r/minimalistphotography" as a keyword it should alert you to. From then on, it will send you alerts to your Reddit inbox anytime someone mentions our sub on Reddit.
 
    When you get one of these notifications, if the comment/post did not take place in our sub, if it was complimentary/promotion, please copy and paste the link into the promotion channel - it it was a negative, please paste the link into the sub-talk channel. Due to us wanting to avoid any of our mods getting banned from any subreddits, please don't comment on these links. If you think a response may be necessary, just let us know when you share the link, and we'll discuss it as a team to reach a joint decision on the best course of action.
+
+### Automod
+---
+*This section provides a quick explanation of Reddits Automod, along with an overview of what it does in our sub.*
+
+Automod is a site-wide moderation tool on Reddit that all subs are able to set up and customize to meet their individual needs. You can find the setup for our Automod \[here](https://www.reddit.com/r/minimalistphotography/about/wiki/config/automoderator/). Feel free to take a look through the setup, however please make sure not to change anything without the approval of Unique-Public-8594 (the mod in charge of our Automod). If you're interested in learning how it works, and how you could configure it, its \[documentation](https://www.reddit.com/r/reddit.com/wiki/automoderator/full-documentation/) is a great place to start.
+
+For our subreddit, we have it set up do to a couple different tasks. It's first task is that it will automatically remove all posts made in our sub, so that we may vote on it and decide whether it belongs in r/minimalistphotography. It's other job is to assign the post flairs that you'll see on each and every post in our sub. (The post flairs are the 'First Post', "Level 1 Member", "Level 2 Member", etc). It uses the in-sub karma of the person who posted the image to determine what flair the post should be given. That's why you'll notice that when posts by the same user are posted one right after the other, they'll be given the same flair. This is because they did not earn any in-sub karma in the short time between posting their first and second photo.
+
+### Mod Log
+---
+*This section provides a quick explanation of Reddits Mod Log, along with an overview of how it can be used in our sub.*
+
