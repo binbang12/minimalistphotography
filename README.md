@@ -173,3 +173,5 @@ For our subreddit, we have it set up do to a couple different tasks. It's first 
 ---
 *This section provides a quick explanation of Reddits Mod Log, along with an overview of how it can be used in our sub.*
 
+To be continued 🙂...
+
