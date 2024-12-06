@@ -3,7 +3,7 @@
 - [Onboarding](#Onboarding)
 - [Queue](#Queue)
 - [Photo Pool Voting](#Photo-Pool-Voting)
-- [Photo Pool Invited](#Photo-Pool-Invites)
+- [Invitations](#Invitations)
 - [Promotion](#Promotion)
 - [Automod](#Automod)
 - [Mod Log](#Mod-Log)
@@ -124,7 +124,7 @@ Now that you have full perms, please keep in mind that changes to our subs rules
 
    I've now given you access to the photo-pool channel on Discord, so feel free to take a look there. At the top of the channel, you'll find some guidelines that you can read-through to make sure you fully udnerstand everything before voting. Finally, if you see a post elsewhere on Reddit that you feel would belong in our sub, it's A-Okay to place it in the photo pool to be voted on. Please just first ensure that the user has not already posted any photos to our sub, and have not been sent any invites already. (The only exception being if they've been sent just one invite and it was over 3 months ago).
 
-### Photo Pool Invites
+### Invitations
 ---
 *This section covers training a mod to send invites based on votes in photo pool. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
