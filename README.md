@@ -106,7 +106,8 @@
    Does this all make sense to you? Do you have any questions?
 
 3. **Once the new mods has said they understand Step 2, proceed to give them the "Queue" role in Discord and full permissions on Reddit.**
-Now that you have full perms, please keep in mind that changes to our subs rules/description/design or any other changes are not made solely by one person, and are discussed by the entire team before hand. Please also do not action any posts in the Reddit queue, as all voting and actions should take place through the bot and jwoods224. Finally, please remember to continue doing Welcome Comments, Congrats, and flairs on Reddit. That takes first priority. You've been an amazing help. Thank you!
+   
+   I've given you access to the Queue channel here on Discord, as well as full mod permissions on Reddit. Now that you have full perms, please keep in mind that changes to our subs rules/description/design or any other changes are not made solely by one person, and are discussed by the entire team before hand. Please also do not action any posts in the Reddit queue, as all voting and actions should take place through the bot and jwoods224. Finally, please remember to continue doing Welcome Comments, Congrats, and flairs on Reddit. That takes first priority. You've been an amazing help. Thank you!
 
 ### Photo Pool Voting
 ---
