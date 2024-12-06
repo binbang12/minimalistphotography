@@ -7,6 +7,8 @@
 - [Promotion](#Promotion)
 - [Automod](#Automod)
 - [Mod Log](#Mod-Log)
+- [Discord Tutorial](#Discord-Tutorial)
+- [Timing](#Timing)
 
 ### Onboarding
 ---
@@ -156,11 +158,11 @@
 ---
 *This section covers training a mod to track mentions of our subreddit elsewhere on Reddit. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
-1. **If the mod does not already have the "Growth" role on Discord, they should be taught [Photo Pool Voting](#Photo-Pool-Voting) first. Otherwisem explain to them the quick and easy process involved.**
+1. **If the mod does not already have the "Growth" role on Discord, they should be taught [Photo Pool Voting](#Photo-Pool-Voting) first. Otherwise explain to them the quick and easy process involved.**
 
    We like seeing when people across Reddit mention our subreddit. To get notifications when someone uses "r/minimalistphotography" in a post or comment, we use \[RedditComber](https://redditcomber.com/). To set it up, simply sign in with your Reddit account and then enter "r/minimalistphotography" as a keyword it should alert you to. From then on, it will send you alerts to your Reddit inbox anytime someone mentions our sub on Reddit.
 
-   When you get one of these notifications, if the comment/post did not take place in our sub, if it was complimentary/promotion, please copy and paste the link into the promotion channel - it it was a negative, please paste the link into the sub-talk channel. Due to us wanting to avoid any of our mods getting banned from any subreddits, please don't comment on these links. If you think a response may be necessary, just let us know when you share the link, and we'll discuss it as a team to reach a joint decision on the best course of action.
+   When you get one of these notifications, if the comment/post did not take place in our sub, if it was complimentary/promotion, please copy and paste the link into the promotion channel - if it was a negative, please paste the link into the sub-talk channel. Due to us wanting to avoid any of our mods getting banned from any subreddits, please don't comment on these links. If you think a response may be necessary, just let us know when you share the link, and we'll discuss it as a team to reach a joint decision on the best course of action.
 
 ### Automod
 ---
@@ -174,5 +176,48 @@ For our subreddit, we have it set up do to a couple different tasks. It's first 
 ---
 *This section provides a quick explanation of Reddits Mod Log, along with an overview of how it can be used in our sub.*
 
-To be continued 🙂...
+The Reddit mod log has an important place in a mods toolkit. The mod log, which can be found in a subs mod tools, allows one to quickly and easily find a summary of all past mod actions. Feel free to take a look and see what everyone has been up to. If you want, you can even filter the results by mod, and take a look at everything you've done recently!
 
+Our primary use for the mod log is to ensure that no mods have accidently actioned a post without allowing the voting to proceed as normal. If you notice a post in mod log that had been approved/removed by someone other then Automod, u/binbang12, u/Jwoods224 or u/Unique-Public-8594, then please let us know in the sub-talk channel on Discord, so that we can decide on what to do with the post. You may notice that u/binbang12 is the one that approves/removes most of the posts in our sub and this is just because our Discord bot actions all the posts through that account. 
+
+### Discord Tutorial
+---
+*This section provides a quick surface level tutorial for those new to Discord.*
+
+Discord is where most of our moderating happens. It's where we manage the Reddit mod queue, where we hold mod votes and where we discuss our plans for the subreddit. Since you're new to Discord, here's a quick guide to get your started. If you want to learn a bit more, or you're still confused on a couple things, feel free to read Discords \["Beginners's Guide to Discord".](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
+
+- What are Servers?
+  
+Servers are individual communities or groups on Discord where people with shared interests come together. Each server is divided into channels that can be for text chatting or voice chatting. In our case, our server is for the moderation of r/minimalistphotography.
+
+- What are DMs?
+  
+DMs, or Direct Messages, are private one-on-one conversations between you and another user on Discord. They let you chat privately outside of a server. You can access them through the Direct Messages section on the home screen or by clicking a user’s profile and selecting "Message".
+
+- How to Mention Someone
+  
+To mention someone in a server, type @ followed by their username or nickname. This sends them a notification and highlights the message for them, which is great if you want to get their attention.
+
+- How to Add a Reaction
+  
+Adding a reaction is a fun way to respond to a message with emojis. Hover over the message you want to react to, and a smiley face icon will appear. Click it to open a menu of emojis, then select the one you want. The emoji will appear under the message for everyone to see. We also use reactions in a couple different places in our server, to aid in the moderation of our sub.
+
+- How to Change Your Nickname in a Server
+  
+If the server allows nicknames, you can set a unique name for yourself in that server. Click the server name in the top-left corner, and from the menu, select "Edit Server Profile". Under "Server Nickname", enter your new name, save it, and it will display in that server only, without affecting your username elsewhere. For our server, we ask that it match your username on Reddit.
+
+### Timing
+---
+*This section provides a quick explanation of when each module should be taught.*
+
+From the time a new mod joins the team, they should be learning the various processes that we use to moderate our sub. Below is the order in which the new mod should be trained. This can be edited as needed, however this serves as a good baseline.
+
+- First, if the new mod is not comfortable with Discord, they should be taught the [Discord Tutorial](#Discord-Tutorial) Module.
+- If the new mod is comfortable with Discord, or has been given the [Discord Tutorial](#Discord-Tutorial) Module, they should next be taught the [Onboarding](#Onboarding) Module.
+- Once the new mod has completed the [Onboarding](#Onboarding) Module, if they have agreed to continue with the training and learn Queue, teach them the [Queue](#Queue) Module. If they have not decided to continue, they should be asked again monthly.
+- Once a week has passed since the new mod learned the [Queue](#Queue) Module, if they agree, teach them the [Photo Pool Voting](#Photo-Pool-Voting) Module. If they have not decided to continue, they should be asked again monthly.
+- After a week has passed since the mod has learned the [Photo Pool Voting](#Photo-Pool-Voting) Module, if they'd like to help with the sending of invitations, teach them the [Invitations](#Invitations) Module. If they have not decided to continue, they should be asked again monthly.
+- Once the mod had learned the [Invitations](#Invitations) Module, teach them [Promotion](#Promotion).
+- After the new mod has completed all the previously mentioned Modules, teach them [Mod Log](#Mod-Log), wait a month, then teach them [Automod](#Automod).
+
+  
