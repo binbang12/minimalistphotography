@@ -61,11 +61,13 @@
 
    In addition to the user flairs, when a post makes it into one of the milestones mentioned above, they should be congratulated by a mod, via commenting on the post. The comment should follow the same guidelines as all other comments in our sub (friendly, no copy-paste, mention user), and let the user know their current milestone achieved. If you gave the user a new flair, you can also let them know in your comment.
 
+   From time to time please look over the Top 25 of All Time and scan the dates of the posts.  If any have remained up in our Top 25 of All Time for a month and they have not been congratulated on passing that milestone, please add a comment to honor that achievement.
+
    Our bot, which I mentioned during the last stage of your training, will also let us know in the "needs-attention" channel when a post has made a milestone. Please do congratulations and flairs in addition to the welcome comments we discussed earlier, not instead of.
 
-9. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Step 5. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
+10. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Step 5. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
-10. **After a couple days have passed since Step 8, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.**
+11. **After a couple days have passed since Step 8, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.**
 
       You've been doing an amazing job so far, and now you have a choice. You can either:
 
