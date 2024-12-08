@@ -1,6 +1,8 @@
 # Minimalist Photography Training Handbook
 ## Table Of Contents
 - [Onboarding](#Onboarding)
+- [Comments](#Comments)
+- [Top 25](#Top 25)
 - [Queue](#Queue)
 - [Photo Pool](#Photo-Pool)
 - [Invitations](#Invitations)
@@ -45,19 +47,25 @@
 
     Once you’ve completed these initial tasks, there are many other ways to get more involved in the moderation of our community if you’re interested!
 
-6. **Answer any questions the new mod may have, then start by teaching them Step 1: Comments.**
+### Comments
+---
+*This section covers training a new mod about how we use comments to create a friendly community. For each new mod learning Comments, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
    The first task that we'll be covering is comments on posts. As mentioned, we try to have a mod comment on every post. If you come across a post without one, feel free to step in! We hope that all mods will check for posts in need of comments once or twice a day. Additionally, you'll also notice the "needs-attention" channel in our Discord server. If a post has gone without a mod comment for over 5 hours, our bot will send us an alert there, so if you happen to see an alert and have the time, please comment on the post, then delete the alert.
 
-   When making comments on posts, we ask that they be friendly and be unique (no copy-paste). Other then that, the message is entirely up to you. All comments should mention the user who posted, to alert them. To do this, you include "u/", followed by their username in your message. Finally, if you notice the post's flair is "First Post", please welcome them to r/MinimalistPhotography!
+   When making comments on posts, we ask that they be friendly and be unique (no copy-paste). Other then that, the message is entirely up to you. All comments should mention the user who posted, to alert them. To do this, you include "u/", followed by their username in your message. 
 
-   You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).
+   You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).  If you notice the post's flair is "First Post", please welcome them to r/MinimalistPhotography!
 
-8. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly and regularly. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.**
+**Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly and regularly. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
-9. **After a couple of days have passed since Step 5, continue with the new mods training. They're now moving onto Top 25.**
+### Top 25
+---
+*This section covers training a new mod to aid in Top 25 Flairs and Congratulations. For each new mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
-   We're now going to cover the second part of your training, Top 25. This has to do with the posts that make it into our Top 25 most upvoted posts (ever), and can be found by sorting our subreddit's feed by "Top" -> "All Time". We congratulate every user who reaches the Top 25, as well as any of the other milestones (top 20, 15, 10, 5, 3, 2, and 1). A couple things need to be done when a milestone (25, 20, 15, 10, 5, 3, 2, 1) is acheived:
+**After a couple of days have passed since learning Comments, continue with the new mods training. They're now moving onto Top 25.**
+
+   We're now going to cover the a new training step:  Top 25. This has to do with the posts that make it into our Top 25 most upvoted posts (ever), and can be found by sorting our subreddit's feed by "Top" -> "All Time". We congratulate every user who reaches the Top 25, as well as any of the other milestones (top 20, 15, 10, 5, 3, 2, and 1). A couple things need to be done when a milestone (25, 20, 15, 10, 5, 3, 2, 1) is acheived:
 
    If the user has made it into the Top 25, and they don't have the "Top 25 of All Time Photographer" user flair, please assign it to them. This is also true if they've reached the top 3, 2 or 1, with the "3rd Place All Time Top Photographer", "2nd Place All Time Top Photographer", and "1st Place All Time Top Photographer" user flairs respectively. It's important to note that these flairs are treated as trophys, so even if the user falls out of their position in the Top 25, they do not lose their flair.
 
@@ -67,9 +75,9 @@
 
    Our bot, which I mentioned during the last stage of your training, will also let us know in the "needs-attention" channel when a post has made a milestone. Please do congratulations and flairs in addition to the welcome comments we discussed earlier, not instead of.
 
-10. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Step 5. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
+11. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Step 5. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
-11. **After a couple days have passed since Step 8, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.**
+12. **After a couple days have passed since Step 8, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.**
 
       You've been doing an amazing job so far, and now you have a choice. You can either:
 
