@@ -20,9 +20,9 @@
    Before we continue with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods:
 
    \- Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts unless you have notified the team in the Discord server (Mods-On-Break) that you are on break.   
-   \- Maintain a respectful and friendly tone in all interactions with community members.
-   \- Make an effort to keep things positive within the mod team, expressing encouragement and being respectful.  If you have criticism, try to deliver it paired with praise and discuss it privately in a direct message rather than in a group chat. 
-   \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.
+   \- Maintain a respectful and friendly tone in all interactions with community members.  
+   \- Make an effort to keep things positive within the mod team, expressing encouragement and being respectful.  If you have criticism, try to deliver it paired with praise and discuss it privately in a direct message rather than in a group chat.   
+   \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.  
 
    Finally, while we cannot require mods to upvote nor tell them what to upvote, upvoting of posts and comments does make our sub seem more lively. Do with this as you will!
   
@@ -32,9 +32,9 @@
 
    I'd now like to share a bit about our moderation process, as we do things differently compared to most other subreddits. Some of the things we do differently are:
    
-   \- Every post submitted to our subreddit is removed and voted on by the mod team to determine if it aligns with our concept of minimalism  (which is constantly evolving as we learn and work with each other).
-   \- We aim to have at least one mod comment on every post. This is an important part of what we do, as we believe it helps foster a welcoming and engaged community.  
-   \- Some of our mods actively search for high-quality minimalist photos across reddit. If we find a photo on reddit that aligns with our concept of minimalism, we'll send the user an invitation to post it on our subreddit.
+   \- Every post submitted to our subreddit is removed and voted on by the mod team to determine if it aligns with our concept of minimalism  (which is constantly evolving as we learn and work with each other).  
+   \- We aim to have at least one mod comment on every post. This is an important part of what we do, as we believe it helps foster a welcoming and engaged community.    
+   \- Some of our mods actively search for high-quality minimalist photos across reddit. If we find a photo on reddit that aligns with our concept of minimalism, we'll send the user an invitation to post it on our subreddit.  
 
 5. **Answer any questions the new mod may have, then continue on to explain the training process that they will go through.**
 
@@ -54,7 +54,7 @@
 
    When making comments on posts, we ask that they be friendly and be unique (no copy-paste). Other then that, the message is entirely up to you. All comments should mention the user who posted, to alert them. To do this, you include "u/", followed by their username in your message. 
 
-   You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).  If you notice a post with a "First Post" flair, please compliment thier pohoto, add a friendly welcome, include their u/username, and mention r/MinimalistPhotography in the comment as well.  Here's an example:  "This composition is effortlessly balanced and subject well-centered u/username.  Welcome to r/minimalistphotography!"  We will be looking for similar comments from you going forward.
+   You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).  If you notice a post with a "First Post" flair, please compliment their photo, add a friendly welcome, include their u/username, and mention r/MinimalistPhotography in the comment as well.  Here's an example:  "This composition is effortlessly balanced and subject well-centered u/username.  Welcome to r/minimalistphotography!"  We will be looking for similar comments from you going forward.
 
    We normally give new mods a few days to do comments on the sub (both regular comments and Welcome Comments) before moving onto the next training step.  Let us know if you would prefer to move forward with the next training step sooner.
 
@@ -66,11 +66,11 @@
 
 **After a couple of days have passed since learning Comments, continue with the new mods training. They're now moving onto Top 25.**
 
-   We're now going to cover the a new training step:  Top 25. This has to do with the posts that make it into our Top 25 most upvoted posts (ever), and can be found by sorting our subreddit's feed by "Top" -> "All Time". We congratulate every user who reaches the Top 25, as well as any of the other milestones (top 20, 15, 10, 5, 3, 2, and 1). A couple things need to be done when a milestone (25, 20, 15, 10, 5, 3, 2, 1) is acheived:
+   We're now going to cover a new training step: Top 25. This has to do with the posts that make it into our Top 25 most upvoted posts (ever), and can be found by sorting our subreddit's feed by "Top" -> "All Time". We congratulate every user who reaches the Top 25, as well as any of the other milestones (top 20, 15, 10, 5, 3, 2, and 1). A couple things need to be done when a milestone (25, 20, 15, 10, 5, 3, 2, 1) is acheived:
 
    If the user has made it into the Top 25, and they don't have the "Top 25 of All Time Photographer" user flair, please assign it to them. This is also true if they've reached the top 3, 2 or 1, with the "3rd Place All Time Top Photographer", "2nd Place All Time Top Photographer", and "1st Place All Time Top Photographer" user flairs respectively. It's important to note that these flairs are treated as trophys, so even if the user falls out of their position in the Top 25, they do not lose their flair.  We hope to see you begin assigning flairs.
 
-   In addition to the user flairs, when a post makes it into one of the milestones mentioned above, they should be congratulated by a mod, via commenting on the post. The comment should follow the same guidelines as all other comments in our sub (friendly, no copy-paste, mention user), and let the user know their current milestone achieved. If you gave the user a new flair, you can also let them know in your comment.  Here's an example:  "Hi u/username!!  This lovely photo has now received enough upvotes to put you in our Top 25 photos of All Time!  We’ll be giving you a special flair for achieving that rank. Just like a runner keeps their medal, you get to keep that user flair.  Well done!!"  We will be looking for similar comments from you in the future.
+   In addition to the user flairs, when a post makes it into one of the milestones mentioned above, they should be congratulated by a mod, via commenting on the post. The comment should follow the same guidelines as all other comments in our sub (friendly, no copy-paste, mention user), and let the user know their current milestone achieved. If you gave the user a new flair, you can also let them know in your comment.  Here's an example:  "Hi u/username!!  This lovely photo has now received enough upvotes to put you in our Top 25 photos of All Time!  We’ll be giving you a special flair for achieving that rank. Just like a runner keeps their medal, you get to keep that user flair.  Well done!!" We will be looking for similar comments from you in the future.
 
    From time to time please look over the Top 25 of All Time and scan the dates of the posts.  If any have remained up in our Top 25 of All Time for a month and they have not been congratulated on passing that milestone, please add a comment to honor that achievement.  Here's an example:  "Hi u/username. Congratulations!  Despite many newer posts, your photo has stayed in our top 25 for a month. We're impressed.  Well done."  We will be looking for comments such as this from you in the future.
 
@@ -78,22 +78,22 @@
 
    We normally give new mods a few days to do Top 25 Flairs and Congratulations on the sub before moving onto the next training step.  Let us know if you would prefer to move forward with the next training step sooner.
 
-11. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Step 5. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
-
-12. **After a couple days have passed since Step 8, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed to [Queue](#Queue), otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.**
-
-      You've been doing an amazing job so far, and now you have a choice. You can either:
-
-      \- Stop the training now, and continue to help with Welcome Comments, Congrats, and flairs, with the option to continue at a later date.  
-      \- Continue on and learn queue, which is where we vote and decide on whether or not a post is minimalist.  
-
-      Either option is fine, so it's up to you.
+**Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments as taught earlier in the training. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
 ### Queue
 ---
 *This section covers training a new mod to aid in Queue. For each new mod learning Queue, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
-1. **Once the new mod has decided to continue with the training and learn queue, have them learn a little bit more about minimalistphotography.**
+**After a couple days have passed since Step 8, you should now give the new mod a choice between continuing on with training (Queue), or sticking with what they've learned so far. If they choose to continue with the training, proceed with this module, otherwise, you can stop here. Please also make sure to give the mod the "General" role on Discord.**
+
+   You've been doing an amazing job so far, and now you have a choice. You can either:
+   
+   \- Stop the training now, and continue to help with Welcome Comments, Congrats, and flairs, with the option to continue at a later date.  
+   \- Continue on and learn queue, which is where we vote and decide on whether or not a post is minimalist.  
+   
+   Either option is fine, so it's up to you.
+
+1. **If the new mod has decided to continue with the training and learn queue, have them learn a little bit more about minimalistphotography.**
 
    Before you start voting in queue, I ask that you please take a look at our subreddits description, the links in our subreddits side bar, and the conversations in the defining-minimalism channel in our Discord server to give you a better sense of what minimalist photography is. You can also take a look at the posts in our sub to see what our mods consider minimalist. Let me know when you've done this, and we'll continue!
 
@@ -109,7 +109,9 @@
    \- If the bot states that the post may be an invite, please check by following the modmail link provided.  
    \- If the image linked in the invite is the same as the image in queue, you can tell the bot to approve the post immediately by reacting to the post with the :autoapprove: emoji.  
    \- You should only vote with one of these (👍, 🤔, ❌, 👎) - however feel free to use these in addition to your main vote (🤮, 🔥, 😵‍💫).  
-   \- All discussions about a post being voted on should take place in a seperate thread.  
+   \- All discussions about a post being voted on should take place in a separate thread.  
+
+**Split this step into two messages to comply with Discords max message size.**
   
    The emojis we currently use to vote on posts are the following:
    \- 👍: I think it's minimalist. It should be approved.  
@@ -126,7 +128,7 @@
    
    I've given you access to the Queue channel here on Discord, as well as full mod permissions on Reddit. Now that you have full perms, please keep in mind that changes to our subs rules/description/design or any other changes are not made solely by one person, and are discussed by the entire team before hand in our Suggestions Channel on discord. Please also do not action any posts in the Reddit queue, as all voting and actions should take place through the bot and jwoods224. Finally, please remember to continue doing Welcome Comments, Congrats, and flairs on Reddit. That takes first priority. You've been an amazing help. Thank you!
 
-   We will be looking, hoping to see your votes in queue.  Normally give mods about a week to vote in our queue and then ask if they would like to proceed to the next  training step, Photo Pool.  Let us know if you would like to move forward with the next training step sooner.
+   We will be looking, hoping to see your votes in queue. We normally give mods about a week to vote in our queue and then ask if they would like to proceed to the next training step, Photo Pool.  Let us know if you would like to move forward with the next training step sooner.
 
 ### Photo Pool
 ---
@@ -140,9 +142,9 @@
 
    The voting process for photo pool is in many ways like voting in Queue. The key difference is that you should be holding the images to a higher standard. A good way to think about it is: "Would this post make it into our Top 25?". Like with Queue voting, you use reactions (👍,❌,🤔,👎,🔥) to vote, with them all having the same meaning. A couple of other emojis we may use however are (1️⃣, 2️⃣, 3️⃣, etc), which can be used to specify which image you're voting yes to if the provided post links to an album (a Gallery, a collection). At this point, you don't have to worry about the sending of invites, however if you'd like to help with that, feel free to let me know and we can cover it after.
 
-3. **Give them access to the photo-pool by giving them the "Growth" role on Discord. Also go on to explain that they're allowed placing photos in the photo pool if they so wish.**
+3. **Give them access to the photo-pool by giving them the "Growth" role on Discord.**
 
-   I've now given you access to the photo-pool channel on Discord, so feel free to take a look there. At the top of the channel, you'll find some guidelines that you can read-through to make sure you fully udnerstand everything before voting. Finally, if you see a post elsewhere on Reddit that you feel would belong in our sub, it's A-Okay to place it in the photo pool to be voted on. Please just first ensure that the user has not already posted any photos to our sub, and have not been sent any invites already. (The only exception being if they've been sent just one invite and it was over 3 months ago).  We look forward to seeing your votes in our Photo Pool!
+   I've now given you access to the photo-pool channel on Discord, so feel free to take a look there. At the top of the channel, you'll find some guidelines that you can read-through to make sure you fully understand everything before voting. Finally, if you see a post elsewhere on Reddit that you feel would belong in our sub, it's A-Okay to place it in the photo pool to be voted on. Please just first ensure that the user has not already posted any photos to our sub, and have not been sent any invites already. (The only exception being if they've been sent just one invite and it was over 3 months ago). We look forward to seeing your votes in our Photo Pool!
 
    We ask that mods who help with voting in our Photo Pool still also continue to do Comments, Top 25 Flairs and Congrats, and vote in Queue as their time allows.  Typically a few mintues is all it takes.  We normally give mods about a week to vote in our Photo Pool and then ask if they would like the next training step, Invites.  Let us know if you would like to move forward with the next training step sooner.
 
@@ -173,7 +175,7 @@
 
    To send an invite, first head over to Modmail and select the blue "+" icon. This will open up the draft for a new message. At the top, if it's not already, select r/minimalistphotography as the sender. Next, in the radio selection, choose the "To User" option. Place the user's username in the text box that should pop up (with u/). Now, choose the "Use a saved response" at the bottom, and pick the one named 'Invitation to Post (and join)'. Change PHOTO NAME to a short description of the photo and change PHOTO LINK to the URL of the photo we'd like the user to post. Keep in mind that the brackets and parentheses are part of the message and should not be changed. Before hitting send, add "Invitation to Post (and join)" as the subject of the message. Finally, send the message and remove the image from the photo-pool channel in Discord.  We'll be excited to see your name pop up as having sent out invitations!
 
-   You are doing an amazing job as a mod for this team.  We are grateful.  Thank you.  We have three other option training modules available to you if you would like them:  Promotion, Discord Tutorial, and Mod Tools Tour.  Let us know if you are interested in receiving those training modules.
+   You are doing an amazing job as a mod for this team. We are grateful. Thank you. We have three other option training modules available to you if you would like them: Promotion, Discord Tutorial, and Mod Tools Tour.  Let us know if you are interested in receiving those training modules.
 
 ### Promotion
 ---
@@ -189,7 +191,7 @@
 ---
 *This section provides a quick surface level tutorial for those new to Discord.*
 
-Discord is where most of our moderating happens. It's where we manage the Reddit mod queue, where we hold mod votes and where we discuss our plans for the subreddit. Since you're new to Discord, here's a quick guide to get your started. If you want to learn a bit more, or you're still confused on a couple things, feel free to read Discords \["Beginners's Guide to Discord".](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
+Discord is where most of our moderating happens. It's where we manage the Reddit mod queue, where we hold mod votes and where we discuss our plans for the subreddit. Since you're new to Discord, here's a quick guide to get your started. If you want to learn a bit more, or you're still confused on a couple things, feel free to read Discords \["Beginner's Guide to Discord".](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 
 - What are Servers?
   
@@ -198,6 +200,8 @@ Servers are individual communities or groups on Discord where people with shared
 - What are DMs?
   
 DMs, or Direct Messages, are private one-on-one conversations between you and another user on Discord. They let you chat privately outside of a server. You can access them through the Direct Messages section on the home screen or by clicking a user’s profile and selecting "Message".
+
+**Split this step into two messages to comply with Discords max message size.**
 
 - How to Mention Someone
   
@@ -217,9 +221,11 @@ Please follow these instructions to change your discord nickname in our server (
 
 From our subreddit's page, if you haven't explored it yet, there is a feature called "Mod Tools" and we can provide a brief introduction now.
 
-The set up of Mod Tools can vary from mobile to desktop and vary depending on which version of reddit you prefer (old.reddit.com or reddit.com).  The blue Mod Tools button opens up a sidebar on the left only visible to moderators of each subreddit.  There you will find a menu of tools to explore.  There is more here than we will outline here but feel free to look around and let us know if you have any questions.  This is the entrance to our queues, our  modmail inbox, and the area we used to create the design of our subreddit.  The removed queue is a good sampling of the types of photos the team has decided do not fit on our subreddit.  Also here is Wiki, which is the feature we use to design the content and appearance of our sub's side bar.  There is currently a glitch on accessing this section for some and the workaround involves accessing it this way:   r/replacewithyoursubhere/wiki/config/sidebar
+The set up of Mod Tools can vary from mobile to desktop and vary depending on which version of reddit you prefer (old.reddit.com or reddit.com). The blue Mod Tools button opens up a sidebar on the left only visible to moderators of each subreddit. There you will find a menu of tools to explore. There is more here than we will outline here but feel free to look around and let us know if you have any questions. This is the entrance to our queues, our modmail inbox, and the area we used to create the design of our subreddit. The removed queue is a good sampling of the types of photos the team has decided do not fit on our subreddit. Also there is the Wiki, which is the feature we use to design the content and appearance of our sub's side bar. There is currently a glitch on accessing this section for some and the workaround involves accessing it this way: r/replacewithyoursubhere/wiki/config/sidebar
 
 The Reddit mod log has an important place in a mods toolkit. The mod log, which can be found in a subs mod tools, allows one to quickly and easily find a summary of all past mod actions. Feel free to take a look and see what everyone has been up to. If you want, you can even filter the results by mod, and take a look at everything you've done recently! Our primary use for the mod log is to ensure that no mods have accidently actioned a post without allowing the voting to proceed as normal. If you notice a post in mod log that had been approved/removed by someone other then Automod, u/binbang12, u/Jwoods224 or u/Unique-Public-8594, then please let us know in the sub-talk channel on Discord, so that we can decide on what to do with the post. You may notice that u/binbang12 is the one that approves/removes most of the posts in our sub and this is just because our Discord bot actions all the posts through that account.  
+
+**Split this step into two messages to comply with Discords max message size.**
 
 Another Mod Tool, Automod (or Automoderator), is a site-wide moderation tool on Reddit that all subs are able to set up and customize to meet their individual needs. You can find the setup for our Automod \[here](https://www.reddit.com/r/minimalistphotography/about/wiki/config/automoderator/). Feel free to take a look through the setup, however please make sure not to change anything without the approval of Unique-Public-8594 (the mod in charge of our Automod). If you're interested in learning how it works, and how you could configure it, its \[documentation](https://www.reddit.com/r/reddit.com/wiki/automoderator/full-documentation/) is a great place to start.
 
@@ -233,10 +239,11 @@ From the time a new mod joins the team, they should be learning the various proc
 
 - First, if the new mod is not comfortable with Discord, they should be taught the [Discord Tutorial](#Discord-Tutorial) Module.
 - If the new mod is comfortable with Discord, or has been given the [Discord Tutorial](#Discord-Tutorial) Module, they should next be taught the [Onboarding](#Onboarding) Module.
-- Once the new mod has completed the [Onboarding](#Onboarding) Module, if they have agreed to continue with the training and learn Queue, teach them the [Queue](#Queue) Module. If they have not decided to continue, they should be asked again monthly.
-- Once a week has passed since the new mod learned the [Queue](#Queue) Module, if they agree, teach them the [Photo Pool Voting](#Photo-Pool-Voting) Module. If they have not decided to continue, they should be asked again monthly.
-- After a week has passed since the mod has learned the [Photo Pool Voting](#Photo-Pool-Voting) Module, if they'd like to help with the sending of invitations, teach them the [Invitations](#Invitations) Module. If they have not decided to continue, they should be asked again monthly.
+- One the [Onboarding](#Onboarding) Module is complete, teach them [Comments](#Comments) and [Top 25](#Top-25) seperated by a few days.
+- Once a few days have passed since you taught the new mod [Top 25](#Top-25), teach them the [Queue](#Queue) Module. If they decide not to continue with queue, ask them again monthly.
+- Once a week has passed since the new mod learned the [Queue](#Queue) Module, if they agree, teach them the [Photo Pool](#Photo-Pool) Module. If they have not decided to continue, they should be asked again monthly.
+- After a week has passed since the mod has learned the [Photo Pool](#Photo-Pool) Module, if they'd like to help with the sending of invitations, teach them the [Invitations](#Invitations) Module. If they have not decided to continue, they should be asked again monthly.
 - Once the mod had learned the [Invitations](#Invitations) Module, teach them [Promotion](#Promotion).
-- After the new mod has completed all the previously mentioned Modules, teach them [Mod Log](#Mod-Log), wait a month, then teach them [Automod](#Automod).
+- After the new mod has completed all the previously mentioned Modules, teach them [Mod Tools Tour](#Mod-Tools-Tour) if they wish.
 
   
