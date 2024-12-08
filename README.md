@@ -51,9 +51,11 @@
 
    When making comments on posts, we ask that they be friendly and be unique (no copy-paste). Other then that, the message is entirely up to you. All comments should mention the user who posted, to alert them. To do this, you include "u/", followed by their username in your message. Finally, if you notice the post's flair is "First Post", please welcome them to r/MinimalistPhotography!
 
-7. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly and regularly. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.**
+   You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).
 
-8. **After a couple of days have passed since Step 5, continue with the new mods training. They're now moving onto Top 25.**
+8. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly and regularly. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.**
+
+9. **After a couple of days have passed since Step 5, continue with the new mods training. They're now moving onto Top 25.**
 
    We're now going to cover the second part of your training, Top 25. This has to do with the posts that make it into our Top 25 most upvoted posts (ever), and can be found by sorting our subreddit's feed by "Top" -> "All Time". We congratulate every user who reaches the Top 25, as well as any of the other milestones (top 20, 15, 10, 5, 3, 2, and 1). A couple things need to be done when a milestone (25, 20, 15, 10, 5, 3, 2, 1) is acheived:
 
