@@ -208,6 +208,14 @@ Adding a reaction is a fun way to respond to a message with emojis. Hover over t
   
 If the server allows nicknames, you can set a unique name for yourself in that server. Click the server name in the top-left corner, and from the menu, select "Edit Server Profile". Under "Server Nickname", enter your new name, save it, and it will display in that server only, without affecting your username elsewhere. For our server, we ask that it match your username on Reddit.
 
+### Mod Tools Tour
+---
+*This section provides is for those mods who are interested to learn more about Mod Tools.
+
+From our subreddit's page, if you haven't explored it yet, there is a feature called "Mod Tools" and we can provide a brief introduction now.
+
+The set up of Mod Tools can vary from mobile to desktop and vary depending on which version of reddit you prefer (old.reddit.com or reddit.com).  The blue Mod Tools button opens up a sidebar on the left only visible to moderators of each subreddit.  There you will find a menu of tools to explore.  There is more here than we will outline here but feel free to look around and let us know if you have any questions.  This is the entrance to our queues, our  modmail inbox, and the area we used to create the design of our subreddit.  The removed queue is a good sampling of the types of photos the team has decided do not fit on our subreddit.  Also here is automoderator which includes code/rules that are automatically triggered for each new post and assign post flair and move the post to our queue for mods to discuss and vote.  The section called "Wiki" is the section that determines what is shown on our sub's right side bar.  If you have any questions about any of the Mod Tools, please let us know.  Please do not make any changes without first discussing it in our Suggestions Discord Channel.
+
 ### Timing
 ---
 *This section provides a quick explanation of when each module should be taught.*
