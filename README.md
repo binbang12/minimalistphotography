@@ -2,7 +2,7 @@
 ## Table Of Contents
 - [Onboarding](#Onboarding)
 - [Comments](#Comments)
-- [Top 25](#Top 25)
+- [Top 25](#Top-25)
 - [Queue](#Queue)
 - [Photo Pool](#Photo-Pool)
 - [Invitations](#Invitations)
