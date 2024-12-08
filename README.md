@@ -5,9 +5,8 @@
 - [Photo Pool Voting](#Photo-Pool-Voting)
 - [Invitations](#Invitations)
 - [Promotion](#Promotion)
-- [Automod](#Automod)
-- [Mod Log](#Mod-Log)
 - [Discord Tutorial](#Discord-Tutorial)
+- [Mod Tools Tour](#Mod-Tools-Tour)
 - [Timing](#Timing)
 
 ### Onboarding
@@ -19,8 +18,9 @@
    Before we continue with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods:
 
    \- Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts.  
-   \- Notify the team in the Discord server if you're unnable to partipate for more than 48 hrs.  
-   \- Maintain a respectful and friendly tone in all interactions with both the mod team and community members.  
+   \- Notify the team in the Discord server (Mods-On-Break) if you're unnable to partipate for more than 48 hrs.  
+   \- Maintain a respectful and friendly tone in all interactions with community members.
+   \- Make an effort to keep things positive within the mod team, expressing encouragement and being respectful.  If you have criticism, try to deliver it paired with praise and discuss it privately in a direct message rather than in a group chat. 
    \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.
 
    Finally, while we cannot require mods to upvote nor tell them what to upvote, upvoting of posts and comments does make our sub seem more lively. Do with this as you will!
@@ -166,22 +166,6 @@
 
    When you get one of these notifications, if the comment/post did not take place in our sub, if it was complimentary/promotion, please copy and paste the link into the promotion channel - if it was a negative, please paste the link into the sub-talk channel. Due to us wanting to avoid any of our mods getting banned from any subreddits, please don't comment on these links. If you think a response may be necessary, just let us know when you share the link, and we'll discuss it as a team to reach a joint decision on the best course of action.
 
-### Automod
----
-*This section provides a quick explanation of Reddits Automod, along with an overview of what it does in our sub.*
-
-Automod is a site-wide moderation tool on Reddit that all subs are able to set up and customize to meet their individual needs. You can find the setup for our Automod \[here](https://www.reddit.com/r/minimalistphotography/about/wiki/config/automoderator/). Feel free to take a look through the setup, however please make sure not to change anything without the approval of Unique-Public-8594 (the mod in charge of our Automod). If you're interested in learning how it works, and how you could configure it, its \[documentation](https://www.reddit.com/r/reddit.com/wiki/automoderator/full-documentation/) is a great place to start.
-
-For our subreddit, we have it set up do to a couple different tasks. It's first task is that it will automatically remove all posts made in our sub, so that we may vote on it and decide whether it belongs in r/minimalistphotography. It's other job is to assign the post flairs that you'll see on each and every post in our sub. (The post flairs are the 'First Post', "Level 1 Member", "Level 2 Member", etc). It uses the in-sub karma of the person who posted the image to determine what flair the post should be given. That's why you'll notice that when posts by the same user are posted one right after the other, they'll be given the same flair. This is because they did not earn any in-sub karma in the short time between posting their first and second photo.
-
-### Mod Log
----
-*This section provides a quick explanation of Reddits Mod Log, along with an overview of how it can be used in our sub.*
-
-The Reddit mod log has an important place in a mods toolkit. The mod log, which can be found in a subs mod tools, allows one to quickly and easily find a summary of all past mod actions. Feel free to take a look and see what everyone has been up to. If you want, you can even filter the results by mod, and take a look at everything you've done recently!
-
-Our primary use for the mod log is to ensure that no mods have accidently actioned a post without allowing the voting to proceed as normal. If you notice a post in mod log that had been approved/removed by someone other then Automod, u/binbang12, u/Jwoods224 or u/Unique-Public-8594, then please let us know in the sub-talk channel on Discord, so that we can decide on what to do with the post. You may notice that u/binbang12 is the one that approves/removes most of the posts in our sub and this is just because our Discord bot actions all the posts through that account. 
-
 ### Discord Tutorial
 ---
 *This section provides a quick surface level tutorial for those new to Discord.*
@@ -214,7 +198,13 @@ If the server allows nicknames, you can set a unique name for yourself in that s
 
 From our subreddit's page, if you haven't explored it yet, there is a feature called "Mod Tools" and we can provide a brief introduction now.
 
-The set up of Mod Tools can vary from mobile to desktop and vary depending on which version of reddit you prefer (old.reddit.com or reddit.com).  The blue Mod Tools button opens up a sidebar on the left only visible to moderators of each subreddit.  There you will find a menu of tools to explore.  There is more here than we will outline here but feel free to look around and let us know if you have any questions.  This is the entrance to our queues, our  modmail inbox, and the area we used to create the design of our subreddit.  The removed queue is a good sampling of the types of photos the team has decided do not fit on our subreddit.  Also here is automoderator which includes code/rules that are automatically triggered for each new post and assign post flair and move the post to our queue for mods to discuss and vote.  The section called "Wiki" is the section that determines what is shown on our sub's right side bar.  If you have any questions about any of the Mod Tools, please let us know.  Please do not make any changes without first discussing it in our Suggestions Discord Channel.
+The set up of Mod Tools can vary from mobile to desktop and vary depending on which version of reddit you prefer (old.reddit.com or reddit.com).  The blue Mod Tools button opens up a sidebar on the left only visible to moderators of each subreddit.  There you will find a menu of tools to explore.  There is more here than we will outline here but feel free to look around and let us know if you have any questions.  This is the entrance to our queues, our  modmail inbox, and the area we used to create the design of our subreddit.  The removed queue is a good sampling of the types of photos the team has decided do not fit on our subreddit.  
+
+The Reddit mod log has an important place in a mods toolkit. The mod log, which can be found in a subs mod tools, allows one to quickly and easily find a summary of all past mod actions. Feel free to take a look and see what everyone has been up to. If you want, you can even filter the results by mod, and take a look at everything you've done recently! Our primary use for the mod log is to ensure that no mods have accidently actioned a post without allowing the voting to proceed as normal. If you notice a post in mod log that had been approved/removed by someone other then Automod, u/binbang12, u/Jwoods224 or u/Unique-Public-8594, then please let us know in the sub-talk channel on Discord, so that we can decide on what to do with the post. You may notice that u/binbang12 is the one that approves/removes most of the posts in our sub and this is just because our Discord bot actions all the posts through that account.  
+
+Another Mod Tool, Automod (or Automoderator), is a site-wide moderation tool on Reddit that all subs are able to set up and customize to meet their individual needs. You can find the setup for our Automod \[here](https://www.reddit.com/r/minimalistphotography/about/wiki/config/automoderator/). Feel free to take a look through the setup, however please make sure not to change anything without the approval of Unique-Public-8594 (the mod in charge of our Automod). If you're interested in learning how it works, and how you could configure it, its \[documentation](https://www.reddit.com/r/reddit.com/wiki/automoderator/full-documentation/) is a great place to start.
+
+For our subreddit, we have it set up do to a couple different tasks. It's first task is that it will automatically remove all posts made in our sub, so that we may vote on it and decide whether it belongs in r/minimalistphotography. It's other job is to assign the post flairs that you'll see on each and every post in our sub. (The post flairs are the 'First Post', "Level 1 Member", "Level 2 Member", etc). It uses the in-sub karma of the person who posted the image to determine what flair the post should be given. That's why you'll notice that when posts by the same user are posted one right after the other, they'll be given the same flair. This is because they did not earn any in-sub karma in the short time between posting their first and second photo.
 
 ### Timing
 ---
