@@ -56,7 +56,7 @@
 
    You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).  If you notice a post with a "First Post" flair, please compliment thier pohoto, add a friendly welcome, include their u/username, and mention r/MinimalistPhotography in the comment as well.  Here's an example:  "This composition is effortlessly balanced and subject well-centered u/username.  Welcome to r/minimalistphotography!"  We will be looking for similar comments from you going forward.
 
-    We normally give new mods a few days to do comments on the sub (both regular comments and Welcome Comments) before moving onto the next training step.  Let us know if you would prefer to move forward with the next training step sooner.
+   We normally give new mods a few days to do comments on the sub (both regular comments and Welcome Comments) before moving onto the next training step.  Let us know if you would prefer to move forward with the next training step sooner.
 
 **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly and regularly. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
