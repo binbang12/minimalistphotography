@@ -158,12 +158,12 @@
 
 2. **Once the mod is ready to proceed, explain to them what the requirements are for an invite to be sent.**
 
-   Due to photo-pool images being held to a higher standard, the criteria for what posts we approve are different then Queue. For images in the pool, they must meet the following:
+   Due to photo-pool images being held to a higher standard, the criteria for what posts we approve are different in the Photo Pool then in Queue. For images in the pool, they must meet the following:
 
    \- Have unanimous upvotes (👍)  
    \- Have at least 3 upvotes (👍)
 
-   If the image does not meet these conditions, then we won't send an invite for it, we just delete it. If the image has met these conditions, there are a few more things to check before sending an invite.
+   If the image does not meet these conditions, then we won't send an invite for it, we just delete it. If the image has met these conditions, select one (usually the oldest one in the Photo Pool), and then there are a few more things to check before sending an invite.
 
    \- Search modmail for any conversations with that user. (Do not include "u/" in the search).  
    \- Either no invitations have to have been sent previously, or there must have only been 1, having occured at least 3 months ago.  
