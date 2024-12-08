@@ -2,7 +2,7 @@
 ## Table Of Contents
 - [Onboarding](#Onboarding)
 - [Queue](#Queue)
-- [Photo Pool Voting](#Photo-Pool-Voting)
+- [Photo Pool](#Photo-Pool)
 - [Invitations](#Invitations)
 - [Promotion](#Promotion)
 - [Discord Tutorial](#Discord-Tutorial)
@@ -113,7 +113,7 @@
    
    I've given you access to the Queue channel here on Discord, as well as full mod permissions on Reddit. Now that you have full perms, please keep in mind that changes to our subs rules/description/design or any other changes are not made solely by one person, and are discussed by the entire team before hand. Please also do not action any posts in the Reddit queue, as all voting and actions should take place through the bot and jwoods224. Finally, please remember to continue doing Welcome Comments, Congrats, and flairs on Reddit. That takes first priority. You've been an amazing help. Thank you!
 
-### Photo Pool Voting
+### Photo Pool
 ---
 *This section covers training a mod to vote in the photo pool. For each mod learning this, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
@@ -148,7 +148,7 @@
 
    \- Search modmail for any conversations with that user. (Do not include "u/" in the search).  
    \- Either no invitations have to have been sent previously, or there must have only been 1, having occured at least 3 months ago.  
-   \- The user should have no prior activity on our sub. You can check by searching using our sub's search bar (enter the user's username with the "u/").
+   \- If the user has prior activity on our sub we might not send an invite (or we might reword the invite to acknowledge their participation). You can check by searching using our sub's search bar (it works with or without the "u/" before the username).
 
    If the image and user meet all of the conditions, then you can now send an invite. I'll go over how to do that, however first, do you have any questions?
 
@@ -198,7 +198,7 @@ If the server allows nicknames, you can set a unique name for yourself in that s
 
 From our subreddit's page, if you haven't explored it yet, there is a feature called "Mod Tools" and we can provide a brief introduction now.
 
-The set up of Mod Tools can vary from mobile to desktop and vary depending on which version of reddit you prefer (old.reddit.com or reddit.com).  The blue Mod Tools button opens up a sidebar on the left only visible to moderators of each subreddit.  There you will find a menu of tools to explore.  There is more here than we will outline here but feel free to look around and let us know if you have any questions.  This is the entrance to our queues, our  modmail inbox, and the area we used to create the design of our subreddit.  The removed queue is a good sampling of the types of photos the team has decided do not fit on our subreddit.  
+The set up of Mod Tools can vary from mobile to desktop and vary depending on which version of reddit you prefer (old.reddit.com or reddit.com).  The blue Mod Tools button opens up a sidebar on the left only visible to moderators of each subreddit.  There you will find a menu of tools to explore.  There is more here than we will outline here but feel free to look around and let us know if you have any questions.  This is the entrance to our queues, our  modmail inbox, and the area we used to create the design of our subreddit.  The removed queue is a good sampling of the types of photos the team has decided do not fit on our subreddit.  Also here is Wiki, which is the feature we use to design the content and appearance of our sub's side bar.  There is currently a glitch on accessing this section for some and the workaround involves accessing it this way:   r/replacewithyoursubhere/wiki/config/sidebar
 
 The Reddit mod log has an important place in a mods toolkit. The mod log, which can be found in a subs mod tools, allows one to quickly and easily find a summary of all past mod actions. Feel free to take a look and see what everyone has been up to. If you want, you can even filter the results by mod, and take a look at everything you've done recently! Our primary use for the mod log is to ensure that no mods have accidently actioned a post without allowing the voting to proceed as normal. If you notice a post in mod log that had been approved/removed by someone other then Automod, u/binbang12, u/Jwoods224 or u/Unique-Public-8594, then please let us know in the sub-talk channel on Discord, so that we can decide on what to do with the post. You may notice that u/binbang12 is the one that approves/removes most of the posts in our sub and this is just because our Discord bot actions all the posts through that account.  
 
