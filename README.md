@@ -19,8 +19,7 @@
 
    Before we continue with the training, I'd just like to cover our expectations of every mod on the team. We ask that all mods:
 
-   \- Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts.  
-   \- Notify the team in the Discord server (Mods-On-Break) if you're unnable to partipate for more than 48 hrs.  
+   \- Dedicate 5-10 minutes a day to mod tasks, such as commenting on posts unless you have notified the team in the Discord server (Mods-On-Break) that you are on break.   
    \- Maintain a respectful and friendly tone in all interactions with community members.
    \- Make an effort to keep things positive within the mod team, expressing encouragement and being respectful.  If you have criticism, try to deliver it paired with praise and discuss it privately in a direct message rather than in a group chat. 
    \- Actively participate in mod discussions on Discord, where we collaborate on decisions and improvements for the subreddit.
@@ -51,11 +50,13 @@
 ---
 *This section covers training a new mod about how we use comments to create a friendly community. For each new mod learning Comments, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
 
-   The first task that we'll be covering is comments on posts. As mentioned, we try to have a mod comment on every post. If you come across a post without one, feel free to step in! We hope that all mods will check for posts in need of comments once or twice a day. Additionally, you'll also notice the "needs-attention" channel in our Discord server. If a post has gone without a mod comment for over 5 hours, our bot will send us an alert there, so if you happen to see an alert and have the time, please comment on the post, then delete the alert.
+   The first task that we'll be covering is comments on posts. As mentioned, we try to have a mod comment on every post. If you come across a post without one, feel free to step in! We hope that all mods will check for posts in need of comments once or twice a day. Additionally, you'll also notice the "needs-attention" channel in our Discord server. If a post has gone without a mod comment for over 5 hours, our bot will send us an alert there, so if you happen to see an alert and have the time, please comment on the post, then delete the alert.  We will be looking for comments from you on posts in our subreddit.
 
    When making comments on posts, we ask that they be friendly and be unique (no copy-paste). Other then that, the message is entirely up to you. All comments should mention the user who posted, to alert them. To do this, you include "u/", followed by their username in your message. 
 
-   You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).  If you notice the post's flair is "First Post", please welcome them to r/MinimalistPhotography!
+   You may notice that each user has a Level number assigned when they post.  We created this automated process using automoderator and each user's in-sub karma tally.  The levels are "First Post" and then Levels 1 (2 karma) - 68 (10,000 karma).  If you notice a post with a "First Post" flair, please compliment thier pohoto, add a friendly welcome, include their u/username, and mention r/MinimalistPhotography in the comment as well.  Here's an example:  "This composition is effortlessly balanced and subject well-centered u/username.  Welcome to r/minimalistphotography!"  We will be looking for similar comments from you going forward.
+
+    We normally give new mods a few days to do comments on the sub (both regular comments and Welcome Comments) before moving onto the next training step.  Let us know if you would prefer to move forward with the next training step sooner.
 
 **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is commenting properly and regularly. If you notice a lack of comments, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
@@ -67,13 +68,15 @@
 
    We're now going to cover the a new training step:  Top 25. This has to do with the posts that make it into our Top 25 most upvoted posts (ever), and can be found by sorting our subreddit's feed by "Top" -> "All Time". We congratulate every user who reaches the Top 25, as well as any of the other milestones (top 20, 15, 10, 5, 3, 2, and 1). A couple things need to be done when a milestone (25, 20, 15, 10, 5, 3, 2, 1) is acheived:
 
-   If the user has made it into the Top 25, and they don't have the "Top 25 of All Time Photographer" user flair, please assign it to them. This is also true if they've reached the top 3, 2 or 1, with the "3rd Place All Time Top Photographer", "2nd Place All Time Top Photographer", and "1st Place All Time Top Photographer" user flairs respectively. It's important to note that these flairs are treated as trophys, so even if the user falls out of their position in the Top 25, they do not lose their flair.
+   If the user has made it into the Top 25, and they don't have the "Top 25 of All Time Photographer" user flair, please assign it to them. This is also true if they've reached the top 3, 2 or 1, with the "3rd Place All Time Top Photographer", "2nd Place All Time Top Photographer", and "1st Place All Time Top Photographer" user flairs respectively. It's important to note that these flairs are treated as trophys, so even if the user falls out of their position in the Top 25, they do not lose their flair.  We hope to see you begin assigning flairs.
 
-   In addition to the user flairs, when a post makes it into one of the milestones mentioned above, they should be congratulated by a mod, via commenting on the post. The comment should follow the same guidelines as all other comments in our sub (friendly, no copy-paste, mention user), and let the user know their current milestone achieved. If you gave the user a new flair, you can also let them know in your comment.
+   In addition to the user flairs, when a post makes it into one of the milestones mentioned above, they should be congratulated by a mod, via commenting on the post. The comment should follow the same guidelines as all other comments in our sub (friendly, no copy-paste, mention user), and let the user know their current milestone achieved. If you gave the user a new flair, you can also let them know in your comment.  Here's an example:  "Hi u/username!!  This lovely photo has now received enough upvotes to put you in our Top 25 photos of All Time!  We’ll be giving you a special flair for achieving that rank. Just like a runner keeps their medal, you get to keep that user flair.  Well done!!"  We will be looking for similar comments from you in the future.
 
-   From time to time please look over the Top 25 of All Time and scan the dates of the posts.  If any have remained up in our Top 25 of All Time for a month and they have not been congratulated on passing that milestone, please add a comment to honor that achievement.
+   From time to time please look over the Top 25 of All Time and scan the dates of the posts.  If any have remained up in our Top 25 of All Time for a month and they have not been congratulated on passing that milestone, please add a comment to honor that achievement.  Here's an example:  "Hi u/username. Congratulations!  Despite many newer posts, your photo has stayed in our top 25 for a month. We're impressed.  Well done."  We will be looking for comments such as this from you in the future.
 
    Our bot, which I mentioned during the last stage of your training, will also let us know in the "needs-attention" channel when a post has made a milestone. Please do congratulations and flairs in addition to the welcome comments we discussed earlier, not instead of.
+
+   We normally give new mods a few days to do Top 25 Flairs and Congratulations on the sub before moving onto the next training step.  Let us know if you would prefer to move forward with the next training step sooner.
 
 11. **Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments from Step 5. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
 
@@ -119,9 +122,11 @@
   
    Does this all make sense to you? Do you have any questions?
 
-3. **Once the new mods has said they understand Step 2, proceed to give them the "Queue" role in Discord and full permissions on Reddit.**
+4. **Once the new mods has said they understand Step 2, proceed to give them the "Queue" role in Discord and full permissions on Reddit.**
    
-   I've given you access to the Queue channel here on Discord, as well as full mod permissions on Reddit. Now that you have full perms, please keep in mind that changes to our subs rules/description/design or any other changes are not made solely by one person, and are discussed by the entire team before hand. Please also do not action any posts in the Reddit queue, as all voting and actions should take place through the bot and jwoods224. Finally, please remember to continue doing Welcome Comments, Congrats, and flairs on Reddit. That takes first priority. You've been an amazing help. Thank you!
+   I've given you access to the Queue channel here on Discord, as well as full mod permissions on Reddit. Now that you have full perms, please keep in mind that changes to our subs rules/description/design or any other changes are not made solely by one person, and are discussed by the entire team before hand in our Suggestions Channel on discord. Please also do not action any posts in the Reddit queue, as all voting and actions should take place through the bot and jwoods224. Finally, please remember to continue doing Welcome Comments, Congrats, and flairs on Reddit. That takes first priority. You've been an amazing help. Thank you!
+
+   We will be looking, hoping to see your votes in queue.  Normally give mods about a week to vote in our queue and then ask if they would like to proceed to the next  training step, Photo Pool.  Let us know if you would like to move forward with the next training step sooner.
 
 ### Photo Pool
 ---
@@ -129,7 +134,7 @@
 
 1. **Once a mod has agreed to start voting in our photo pool, start by letting them know how it works, and the expectations for them.**
 
-   The photo pool is where we vote whether to invite a user to post a specific photo in our sub. For the photo pool, we have higher standards than with queue: we believe it helps keep our sub filled with many high quality minimalist photos. To stock the photo poolm some of our mods search Reddit for images that could fit in our sub, and then will place them in the photo pool channel in Discord to be voted on by team members. Once votes have been made, we have designated mods who will then send the invite to the user (assuming the image was approved).
+   The photo pool is where we vote whether to invite a user to post a specific photo in our sub. For the photo pool, we have higher standards than with queue: we believe it helps keep our sub filled with many high quality minimalist photos. To stock the photo pool, some of our mods search Reddit for images that could fit in our sub, and then will place them in the photo pool channel in Discord to be voted on by team members. Once votes have been made, we have designated mods who will then send the invite to the user (assuming the image was approved).
 
 2. **Once the mod has read the above, and you've answered any questions they may have, continue on to explain the voting process.**
 
@@ -137,7 +142,9 @@
 
 3. **Give them access to the photo-pool by giving them the "Growth" role on Discord. Also go on to explain that they're allowed placing photos in the photo pool if they so wish.**
 
-   I've now given you access to the photo-pool channel on Discord, so feel free to take a look there. At the top of the channel, you'll find some guidelines that you can read-through to make sure you fully udnerstand everything before voting. Finally, if you see a post elsewhere on Reddit that you feel would belong in our sub, it's A-Okay to place it in the photo pool to be voted on. Please just first ensure that the user has not already posted any photos to our sub, and have not been sent any invites already. (The only exception being if they've been sent just one invite and it was over 3 months ago).
+   I've now given you access to the photo-pool channel on Discord, so feel free to take a look there. At the top of the channel, you'll find some guidelines that you can read-through to make sure you fully udnerstand everything before voting. Finally, if you see a post elsewhere on Reddit that you feel would belong in our sub, it's A-Okay to place it in the photo pool to be voted on. Please just first ensure that the user has not already posted any photos to our sub, and have not been sent any invites already. (The only exception being if they've been sent just one invite and it was over 3 months ago).  We look forward to seeing your votes in our Photo Pool!
+
+   We ask that mods who help with voting in our Photo Pool still also continue to do Comments, Top 25 Flairs and Congrats, and vote in Queue as their time allows.  Typically a few mintues is all it takes.  We normally give mods about a week to vote in our Photo Pool and then ask if they would like the next training step, Invites.  Let us know if you would like to move forward with the next training step sooner.
 
 ### Invitations
 ---
@@ -164,7 +171,9 @@
 
 3. **If the mod has no questions, or they've all been answered, then proceed to tell them how to send an invite.**
 
-   To send an invite, first head over to Modmail and select the blue "+" icon. This will open up the draft for a new message. At the top, if it's not already, select r/minimalistphotography as the sender. Next, in the radio selection, choose the "To User" option. Place the user's username in the text box that should pop up (with u/). Now, choose the "Use a saved response" at the bottom, and pick the one named 'Invitation to Post (and join)'. Change PHOTO NAME to a short description of the photo and change PHOTO LINK to the URL of the photo we'd like the user to post. Keep in mind that the brackets and parentheses are part of the message and should not be changed. Before hitting send, add "Invitation to Post (and join)" as the subject of the message. Finally, send the message and remove the image from the photo-pool channel in Discord.
+   To send an invite, first head over to Modmail and select the blue "+" icon. This will open up the draft for a new message. At the top, if it's not already, select r/minimalistphotography as the sender. Next, in the radio selection, choose the "To User" option. Place the user's username in the text box that should pop up (with u/). Now, choose the "Use a saved response" at the bottom, and pick the one named 'Invitation to Post (and join)'. Change PHOTO NAME to a short description of the photo and change PHOTO LINK to the URL of the photo we'd like the user to post. Keep in mind that the brackets and parentheses are part of the message and should not be changed. Before hitting send, add "Invitation to Post (and join)" as the subject of the message. Finally, send the message and remove the image from the photo-pool channel in Discord.  We'll be excited to see your name pop up as having sent out invitations!
+
+   You are doing an amazing job as a mod for this team.  We are grateful.  Thank you.  We have three other option training modules available to you if you would like them:  Promotion, Discord Tutorial, and Mod Tools Tour.  Let us know if you are interested in receiving those training modules.
 
 ### Promotion
 ---
@@ -174,7 +183,7 @@
 
    We like seeing when people across Reddit mention our subreddit. To get notifications when someone uses "r/minimalistphotography" in a post or comment, we use \[RedditComber](https://redditcomber.com/). To set it up, simply sign in with your Reddit account and then enter "r/minimalistphotography" as a keyword it should alert you to. From then on, it will send you alerts to your Reddit inbox anytime someone mentions our sub on Reddit.
 
-   When you get one of these notifications, if the comment/post did not take place in our sub, if it was complimentary/promotion, please copy and paste the link into the promotion channel - if it was a negative, please paste the link into the sub-talk channel. Due to us wanting to avoid any of our mods getting banned from any subreddits, please don't comment on these links. If you think a response may be necessary, just let us know when you share the link, and we'll discuss it as a team to reach a joint decision on the best course of action.
+   When you get one of these notifications, if the comment/post did not take place in our sub, if it was complimentary/promotion, please copy and paste the link into the promotion channel - if it was a negative, please paste the link into the sub-talk channel. We'll be glad to see you adding these items to bring to our attention.  Due to us wanting to avoid any of our mods getting banned from any subreddits, please don't comment on these links. If you think a response may be necessary, just let us know when you share the link, and we'll discuss it as a team to reach a joint decision on the best course of action.
 
 ### Discord Tutorial
 ---
@@ -200,7 +209,7 @@ Adding a reaction is a fun way to respond to a message with emojis. Hover over t
 
 - How to Change Your Nickname in a Server
   
-If the server allows nicknames, you can set a unique name for yourself in that server. Click the server name in the top-left corner, and from the menu, select "Edit Server Profile". Under "Server Nickname", enter your new name, save it, and it will display in that server only, without affecting your username elsewhere. For our server, we ask that it match your username on Reddit.
+Please follow these instructions to change your discord nickname in our server (only):  Click the server name in the top left corner, from the menu select “Edit Server Profile”. Under “server nickname”, enter your new nickname that is the same as (or very similar to ) your username on reddit.
 
 ### Mod Tools Tour
 ---
