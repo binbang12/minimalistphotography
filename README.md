@@ -111,7 +111,7 @@
    \- You should only vote with one of these (👍, 🤔, ❌, 👎) - however feel free to use these in addition to your main vote (🤮, 🔥, 😵‍💫).  
    \- All discussions about a post being voted on should take place in a separate thread.  
 
-**Split this step into two messages to comply with Discords max message size.**
+   **Split this step into two messages to comply with Discords max message size.**
   
    The emojis we currently use to vote on posts are the following:
    \- 👍: I think it's minimalist. It should be approved.  
