@@ -78,7 +78,7 @@
 
    We normally give new mods a few days to do Top 25 Flairs and Congratulations on the sub before moving onto the next training step.  Let us know if you would prefer to move forward with the next training step sooner.
 
-**Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments as taught earlier in the training. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.**
+**Over the next couple days, ensure that the new mod has understood the instructions up until now, and is congratulating members and assigning flairs as needed. In addition, make sure that they are continuing to do the comments as taught earlier in the training. If you notice a lack of welcome comments or congrats/flairs, feel free to give them a gentle nudge or ask them if they need help with anything.  Also verify that they have selected the mod user flair and customized their discord channel name to match their reddit username. **
 
 ### Queue
 ---
