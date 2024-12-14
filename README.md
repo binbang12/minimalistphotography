@@ -109,7 +109,7 @@
    \- If the bot states that the post may be an invite, please check by following the modmail link provided.  
    \- If the image linked in the invite is the same as the image in queue, you can tell the bot to approve the post immediately by reacting to the post with the :autoapprove: emoji.  
    \- You should only vote with one of these (👍, 🤔, ❌, 👎) - however feel free to use these in addition to your main vote (🤮, 🔥, 😵‍💫).  
-   \- All discussions about a post being voted on should take place in a separate thread.  
+   \- Sometimes mods disagree.  That's ok.  All discussions about a post being voted on should take place in a separate thread.  The discussion tends to be respectful, calm, and a good learning experience for all.  The discussions often help us all get on the same page too.  You are welcome to start a discussion.
 
    **Split this step into two messages to comply with Discords max message size.**
   
