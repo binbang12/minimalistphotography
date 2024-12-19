@@ -9,7 +9,7 @@
 - [Promotion](#Promotion)
 - [Discord Tutorial](#Discord-Tutorial)
 - [Mod Tools Tour](#Mod-Tools-Tour)
-- [Timing](#Timing)
+- [Training Pace](#Training-Pace)
 
 ### Onboarding
 ---
@@ -231,7 +231,7 @@ Another Mod Tool, Automod (or Automoderator), is a site-wide moderation tool on 
 
 For our subreddit, we have it set up do to a couple different tasks. It's first task is that it will automatically remove all posts made in our sub, so that we may vote on it and decide whether it belongs in r/minimalistphotography. It's other job is to assign the post flairs that you'll see on each and every post in our sub. (The post flairs are the 'First Post', "Level 1 Member", "Level 2 Member", etc). It uses the in-sub karma of the person who posted the image to determine what flair the post should be given. That's why you'll notice that when posts by the same user are posted one right after the other, they'll be given the same flair. This is because they did not earn any in-sub karma in the short time between posting their first and second photo.
 
-### Timing
+### Training Pace
 ---
 *This section provides a quick explanation of when each module should be taught.*
 
