@@ -6,6 +6,7 @@
 - [Queue](#Queue)
 - [Photo Pool](#Photo-Pool)
 - [Invitations](#Invitations)
+- [Teamwork](#Teamwork)
 - [Promotion](#Promotion)
 - [Discord Tutorial](#Discord-Tutorial)
 - [Mod Tools Tour](#Mod-Tools-Tour)
@@ -176,6 +177,25 @@
    To send an invite, first head over to Modmail and select the blue "+" icon. This will open up the draft for a new message. At the top, if it's not already, select r/minimalistphotography as the sender. Next, in the radio selection, choose the "To User" option. Place the user's username in the text box that should pop up (with u/). Now, choose the "Use a saved response" at the bottom, and pick the one named 'Invitation to Post (and join)'. Change PHOTO NAME to a short description of the photo and change PHOTO LINK to the URL of the photo we'd like the user to post. Keep in mind that the brackets and parentheses are part of the message and should not be changed. (If the photo you selected is part of an album, please mention something along the lines of "Photo #5 in your Water Album" for example.)  Before hitting send, add "Invitation to Post (and join)" as the subject of the message. Finally, send the message and remove the image from the photo-pool channel in Discord.  We'll be excited to see your name pop up as having sent out invitations!
 
    You are doing an amazing job as a mod for this team. We are grateful. Thank you. We have three other option training modules available to you if you would like them: Promotion, Discord Tutorial, and Mod Tools Tour.  Let us know if you are interested in receiving those training modules.
+
+   ### Teamwork
+---
+*This section covers training a new mod in daily habits that help the team. For each new mod learning Teamwork, the steps below should be completed, with adjustments made as needed on a case-by-case basis.*
+
+   There are things you can do to help the team as a whole.  One is to join in the discord conversations, another is to work towards a daily habit of working your way through a checklist comprised of 7 mod tasks.  The amount of time it takes will vary but is estimated to be approximately 15 minutes.  If every mod on the team worked on this checklist on a daily basis, it would be easier (and faster) for each mod and the subreddit would run very smoothly.  The checklist below includes skills already covered in your training.   
+
+   Checklist:
+
+   On reddit:
+   1.  Sort by Ner.  Scroll down to the last post you see that is within the current 24 hours.  As you scroll down, upvote those photos that you like.
+   2.  Scroll back up and, as you go, comment on any post that is currently showing zero comments (tag the username and, if a first post, say the word "welcome" and mention r/minimalistphotography).
+   3.  Sort by Top, then All Time, and scan the top 25 for any errors in the flairs.
+
+   On discord:
+   1.  Check the Needs Attention Channel.  You can delete any on the list that you commented on earlier.  If there are any that need a congratulations, do those now, then delete, thereby completing/removing all items on the list.
+   2.  Go to the discord queue and vote on any photo there that you had not voted on previously.
+   3.  Go to the Photo Pool and vote on any photo there that you had not previously voted on.
+   4.  Next, send an invitation for any photo that received only upvotes, has atleast 3 upvotes, and is at least 48 hours old.
 
 ### Promotion
 ---
