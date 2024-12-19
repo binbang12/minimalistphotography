@@ -33,11 +33,12 @@
 
    I'd now like to share a bit about our moderation process, as we do things differently compared to most other subreddits. Some of the things we do differently are:
    
-   \- Every post submitted to our subreddit is removed and voted on by the mod team to determine if it aligns with our concept of minimalism  (which is constantly evolving as we learn and work with each other).  
+   \- Unlike most photography subreddits, we are a curated sub, so every post submitted to our subreddit is removed and voted on by the mod team to determine if it aligns with our concept of minimalism  (which is constantly evolving as we learn and work with each other).  
    \- We aim to have at least one mod comment on every post. This is an important part of what we do, as we believe it helps foster a welcoming and engaged community.    
-   \- Some of our mods actively search for high-quality minimalist photos across reddit. If we find a photo on reddit that aligns with our concept of minimalism, we'll send the user an invitation to post it on our subreddit.  
+   \- Some of our mods actively search for high-quality minimalist photos across reddit. If we find a photo on reddit that aligns with our concept of minimalism, we'll send the user an invitation to post it on our subreddit.
+   \- While mods on most subreddits add content, keep the queue empty, and dealing with reports and trolls, on our subreddit, a mod's tasks are **completely** different:  upvoting, welcoming, congratulating, assigning flairs, voting, and sending invitations.
 
-5. **Answer any questions the new mod may have, then continue on to explain the training process that they will go through.**
+6. **Answer any questions the new mod may have, then continue on to explain the training process that they will go through.**
 
    Our training is designed to help you learn the tasks that need to be done to keep the subreddit running smoothly. To avoid overwhelming anyone with too much new information, you'll learn a new task every couple of days. The tasks that you'll be learning over the next week or so, in this order, consist of the following:
    
