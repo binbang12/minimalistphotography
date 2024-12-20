@@ -187,13 +187,13 @@
 
    Checklist:
 
-   On reddit:
-   1.  Sort by Ner.  Scroll down to the last post you see that is within the current 24 hours.  As you scroll down, upvote those photos that you like.
+   On the reddit sub:
+   1.  Sort by New.  Scroll down to the last post you see that is within the current 24 hours.  As you scroll down, upvote those photos that you like.
    2.  Scroll back up and, as you go, comment on any post that is currently showing zero comments (tag the username and, if a first post, say the word "welcome" and mention r/minimalistphotography).
-   3.  Sort by Top, then All Time, and scan the top 25 for any errors in the flairs.
+   3.  Sort by Top, then All Time, and scan the top 25 for any missing flairs (or errors in flairs).
 
-   On discord:
-   1.  Check the Needs Attention Channel.  You can delete any on the list that you commented on earlier.  If there are any that need a congratulations, do those now, then delete, thereby completing/removing all items on the list.
+   Switch to discord:
+   1.  Check the Needs Attention Channel.  You can delete any on the list that you commented on earlier.  If there are any alerts remaining after that and they need doing, do those now, then delete the alert, thereby completing/removing all items on the list.
    2.  Go to the discord queue and vote on any photo there that you had not voted on previously.
    3.  Go to the Photo Pool and vote on any photo there that you had not previously voted on.
    4.  Next, send an invitation for any photo that received only upvotes, has atleast 3 upvotes, and is at least 48 hours old.
